@@ -1,0 +1,1388 @@
+locationid,latitude,longitude,stationname,parentcity,sourceurl
+1,39.9304,116.423239,Dongcheng Dongsi,beijing,http://aqicn.org/city/beijing/dongchengdongsi/
+2,39.887403,116.41324,"Temple of Heaven, Dongcheng",beijing,http://aqicn.org/city/beijing/dongchengtiantan/
+3,39.930333,116.345162,West Park officials,beijing,http://aqicn.org/city/beijing/xichengguanyuan/
+4,39.879354,116.358183,West Wanshou Nishinomiya,beijing,http://aqicn.org/city/beijing/xichengwanshouxigong/
+5,39.983406,116.403253,Chaoyang Olympic Sports Center,beijing,http://aqicn.org/city/beijing/chaoyangaotizhongxin/
+6,39.938331,116.46715,Chaoyang Agricultural Exhibition Hall,beijing,http://aqicn.org/city/beijing/chaoyangnongzhanguan/
+7,39.988245,116.293062,Haidian Wanliu,beijing,http://aqicn.org/city/beijing/haidianwanliu/
+8,40.091313,116.180194,The Haidian northern New Area,beijing,http://aqicn.org/city/beijing/haidianbeibuxinqu/
+9,40.003252,116.213097,Haidian Beijing Botanical Garden,beijing,http://aqicn.org/city/beijing/haidianbeijingzhiwuyuan/
+10,39.86423,116.285037,Fengtai garden,beijing,http://aqicn.org/city/beijing/fengtaihuayuan/
+11,39.82535,116.152237,Fengtai Yungang,beijing,http://aqicn.org/city/beijing/fengtaiyungang/
+12,39.915286,116.190144,Shijingshan city,beijing,http://aqicn.org/city/beijing/shijingshangucheng/
+13,39.743357,116.14225,"Fangshan, Liangxiang",beijing,http://aqicn.org/city/beijing/fangshanliangxiang/
+14,39.719389,116.410219,"Huangcunzhen, Daxing",beijing,http://aqicn.org/city/beijing/daxinghuangcunzhen/
+15,39.796197,116.51197,BDA,beijing,http://aqicn.org/city/beijing/yizhuangkaifaqu/
+16,39.887113,116.6689,Tongzhou New Town,beijing,http://aqicn.org/city/beijing/tongzhouxincheng/
+17,40.128111,116.660908,Shunyi New Town ,beijing,http://aqicn.org/city/beijing/shunyixincheng/
+18,40.218245,116.236084,Changping Town,beijing,http://aqicn.org/city/beijing/changpingzhen/
+19,39.938397,116.112323,"Mentougou, Longquan Town",beijing,http://aqicn.org/city/beijing/mentougoulongquanzhen/
+20,40.144433,117.106563,Pinggu town,beijing,http://aqicn.org/city/beijing/pingguzhen/
+21,40.329104,116.63387,Huairou town,beijing,http://aqicn.org/city/beijing/huairouzhen/
+22,40.371186,116.838053,The town of Miyun,beijing,http://aqicn.org/city/beijing/miyunzhen/
+23,40.454217,115.978106,Yanqing town,beijing,http://aqicn.org/city/beijing/yanqingzhen/
+24,40.293269,116.226108,Changping Dingling,beijing,http://aqicn.org/city/beijing/changpingdingling/
+25,40.36623,115.994146,Badaling Northwest,beijing,http://aqicn.org/city/beijing/jingxibeibadaling/
+26,40.500157,116.91701,Miyun Reservoir,beijing,http://aqicn.org/city/beijing/jingdongbeimiyunshuiku/
+27,40.10142,117.126556,"Donggaocun Zhen, Pinggu",beijing,http://aqicn.org/city/beijing/jingdongdonggaocun/
+28,39.713192,116.78905,"Yongledianzhen, Tongzhou",beijing,http://aqicn.org/city/beijing/jingdongnanyongledian/
+29,39.521203,116.306026,"Yufazhen, Daxing",beijing,http://aqicn.org/city/beijing/jingnanyufa/
+30,39.581169,116.006089,"Liulihezhen, Fangshan",beijing,http://aqicn.org/city/beijing/jingxinanliulihe/
+31,39.900402,116.401242,"Qianmen E St, Dongcheng",beijing,http://aqicn.org/city/beijing/qianmendongdajie/
+32,39.877401,116.400238,Yongdingmen Inner St,beijing,http://aqicn.org/city/beijing/yongdingmennadajie/
+33,39.955352,116.355187,Xizhimen N St,beijing,http://aqicn.org/city/beijing/xizhimenbeidajie/
+34,39.857377,116.37421,South Ring Road,beijing,http://aqicn.org/city/beijing/nansanhuanxilu/
+35,39.940273,116.489075,East Fourth Ring Road,beijing,http://aqicn.org/city/beijing/dongsihuanbeilu/
+36,39.955906,116.474246,Beijing,beijing,http://aqicn.org/city/beijing/
+37,31.232979,121.415378,Putuo,shanghai,http://aqicn.org/city/shanghai/putuojiancezhan/
+38,31.263795,121.540311,Yangpu Sipiao,shanghai,http://aqicn.org/city/shanghai/yangpusipiao/
+39,31.199031,121.487719,Shanghai Normal College Primary Division,shanghai,http://aqicn.org/city/shanghai/luwanshizhuanfuxiao/
+40,31.091338,120.982293,Dianshan Lake,shanghai,http://aqicn.org/city/shanghai/qingpudianshanhu/
+41,31.298906,121.47155,Hongkou Liangcheng,shanghai,http://aqicn.org/city/shanghai/hongkouliangcheng/
+42,31.224251,121.429637,Jingan,shanghai,http://aqicn.org/city/shanghai/jinganjiancezhan/
+43,31.163531,121.416643,Shanghai Normal University,shanghai,http://aqicn.org/city/shanghai/xuhuishangshida/
+44,31.188626,121.707342,Chuansha,shanghai,http://aqicn.org/city/shanghai/pudongchuansha/
+45,31.204896,121.581215,Zhangjiang,shanghai,http://aqicn.org/city/shanghai/pudongzhangjiang/
+46,31.226286,121.537317,Lingshan Road,shanghai,http://aqicn.org/city/shanghai/pudongjiancezhan/
+47,31.202842,121.453493,Shanghai,shanghai,http://aqicn.org/city/shanghai/
+48,23.138517,113.263701,Guangzhou,guangzhou,http://aqicn.org/city/guangzhou/
+49,23.389121,113.220062,"Huadu town, Guangzhou",guangdong,http://aqicn.org/city/guangdong/guangzhou/huaduchengqu/
+50,23.308027,113.567032,"Luogang Zhenlong, Guangzhou",guangdong,http://aqicn.org/city/guangdong/guangzhou/luogangzhenlong/
+51,23.151743,113.281842,"LuHu, Guangzhou",guangdong,http://aqicn.org/city/guangdong/guangzhou/luhu/
+52,23.647433,113.629715,"Tianhu, Guangzhou",guangdong,http://aqicn.org/city/guangdong/guangzhou/tianhu/
+53,23.418406,113.078552,"Zhudong, Guangzhou",guangdong,http://aqicn.org/city/guangdong/guangzhou/zhudong/
+54,23.103814,113.338238,"Modiesha station, Guangzhou",guangdong,http://aqicn.org/city/guangdong/guangzhou/modieshazhan/
+55,22.225269,113.304202,Zhuhai,zhuhai,http://aqicn.org/city/zhuhai/
+56,23.185788,112.865368,"Sanshuiyun donghai, Foshan",guangdong,http://aqicn.org/city/guangdong/fushan/sanshuiyundonghai/
+57,23.046836,113.145764,"Nanhai Bureau of Meteorology, Foshan",guangdong,http://aqicn.org/city/guangdong/fushan/nanhaiqixiangju/
+58,23.163551,112.890843,"Sanshui Monitoring Station, Foshan",guangdong,http://aqicn.org/city/guangdong/fushan/sanshuijiancezhan/
+59,22.762729,113.258356,"Ronggui street committee, Shunde",guangdong,http://aqicn.org/city/guangdong/shunde/rongguijiedaoban/
+60,22.806658,113.293112,Shunde,shunde,http://aqicn.org/city/shunde/
+61,22.590411,113.087351,"Donghu, Jiangmen",guangdong,http://aqicn.org/city/guangdong/jiangmen/donghu/
+62,22.72489,112.93404,"Taoyuan Atmosphere Premier Station, Jiangmen",guangdong,http://aqicn.org/city/guangdong/jiangmen/taoyuandaqichaojizhan/
+63,22.604218,113.109062,Jiangmen,jiangmen,http://aqicn.org/city/jiangmen/
+64,23.158865,112.570287,"Kengkouzi station, Zhaoqing",guangdong,http://aqicn.org/city/guangdong/zhaoqing/kangkouzizhan/
+65,23.067961,112.431934,"Mugangzi station, Zhaoqing",guangdong,http://aqicn.org/city/guangdong/zhaoqing/mugangzizhan/
+66,23.075974,112.477437,"Qixingyanzi station, Zhaoqing",guangdong,http://aqicn.org/city/guangdong/zhaoqing/qixingyanzizhan/
+67,23.050167,112.476039,Zhaoqing,zhaoqing,http://aqicn.org/city/zhaoqing/
+68,22.937223,114.385567,"Jinguo Bay, Huizhou",guangdong,http://aqicn.org/city/guangdong/huizhou/jinguowan/
+69,23.338178,114.112867,"Xijiao, Huizhou",guangdong,http://aqicn.org/city/guangdong/huizhou/xijiao/
+70,23.111706,114.415274,"Jiangbei, Huizhou",guangdong,http://aqicn.org/city/guangdong/huizhou/jiangbei/
+71,22.7806,114.464556,"Huiyang chuanhu, Huizhou",guangdong,http://aqicn.org/city/guangdong/huizhou/huiyangchuanhu/
+72,22.739283,114.53621,"Daya bay management committee, Huizhou",guangdong,http://aqicn.org/city/guangdong/huizhou/dayawanguanweihui/
+73,23.079716,114.410253,Huizhou,huizhou,http://aqicn.org/city/huizhou/
+74,23.057294,113.753254,"Guancheng No.2 water plant, Dongguan",guangdong,http://aqicn.org/city/guangdong/dongguan/guanchengershuichang/
+75,23.010039,113.799529,"Dongcheng Shijing, Dongguan",guangdong,http://aqicn.org/city/guangdong/dongguan/dongchengshijing/
+76,22.963051,113.743494,"Nancheng Xiping, Dongguan",guangdong,http://aqicn.org/city/guangdong/dongguan/nanchengxiping/
+77,23.025058,113.751308,"Nancheng Yuanling, Dongguan",guangdong,http://aqicn.org/city/guangdong/dongguan/nanchengyuanling/
+78,23.050873,113.787057,Dongguan,dongguan,http://aqicn.org/city/dongguan/
+79,22.505112,113.407183,"Zimaling, Zhongshan",guangdong,http://aqicn.org/city/guangdong/zhongshan/zimaling/
+80,22.48589,113.439054,"Yangtze River tourist area, Zhongshan",guangdong,http://aqicn.org/city/guangdong/zhongshan/changjianglvyouqu/
+81,22.51839,113.374362,"Huabai Park, Zhongshan",guangdong,http://aqicn.org/city/guangdong/zhongshan/huabaiyuan/
+82,22.545387,113.370459,Zhongshan,zhongshan,http://aqicn.org/city/zhongshan/
+83,24.767777,113.583537,"No.8 middle school, Shaoguan",guangdong,http://aqicn.org/city/guangdong/shaoguan/shibazhong/
+84,24.796106,113.612131,"Forest area, Shaoguan",guangdong,http://aqicn.org/city/guangdong/shaoguan/yuanlinchu/
+85,24.796107,113.612131,"Forest area, Shaoguan",guangdong,http://aqicn.org/city/guangdong/shaoguan/yuanlinchu/
+86,24.790864,113.646599,"Shaoguan University, Shaoguan",guangdong,http://aqicn.org/city/guangdong/shaoguan/shaoguanxueyuan/
+87,24.790864,113.646598,"Shaoguan University, Shaoguan",guangdong,http://aqicn.org/city/guangdong/shaoguan/shaoguanxueyuan/
+88,24.683042,113.60157,"Qujiang Monitoring Station, Shaoguan",guangdong,http://aqicn.org/city/guangdong/shaoguan/qujiangjiancezhan/
+89,24.807342,113.602712,Shaoguan,shaoguan,http://aqicn.org/city/shaoguan/
+90,23.251213,116.406762,"Chaonanzi Station, Shantou",guangdong,http://aqicn.org/city/guangdong/shantou/chaonanzizhan/
+91,23.350642,116.686306,Shantou,shantou,http://aqicn.org/city/shantou/
+92,21.220431,110.397317,"City Environmental Monitoring Station, Zhanjiang",guangdong,http://aqicn.org/city/guangdong/zhanjiang/shihuanjingjiancezhan/
+93,21.197376,110.406487,"EPB Dormitory, Zhanjiang",guangdong,http://aqicn.org/city/guangdong/zhanjiang/huanbaojusushe/
+94,21.200431,110.415655,"Xiashan Swimming Park, Zhanjiang",guangdong,http://aqicn.org/city/guangdong/zhanjiang/xiashanyouyongchang/
+95,21.268177,110.366445,"Zhanjiang Theatre, Zhanjiang",guangdong,http://aqicn.org/city/guangdong/zhanjiang/zhanjiangyingjuyuan/
+96,21.265486,110.335993,"Mazhang EPA, Zhanjiang",guangdong,http://aqicn.org/city/guangdong/zhanjiang/mazhangquhuanbaoju/
+97,21.247604,110.454508,"Potou District EPB, Zhanjiang",guangdong,http://aqicn.org/city/guangdong/zhanjiang/potouquhuanbaoju/
+98,21.26832,110.363883,Zhanjiang,zhanjiang,http://aqicn.org/city/zhanjiang/
+99,21.466435,111.033462,"Maogang sub-office EPB, Maoming",guangdong,http://aqicn.org/city/guangdong/maoming/shihuanbaojumaogangfenju/
+100,21.648905,110.937861,"Petrochemical No. 7 elementaty school, Maoming",guangdong,http://aqicn.org/city/guangdong/maoming/maoshihuaqixiao/
+101,21.662211,110.909482,"Jiankang road, Maoming",guangdong,http://aqicn.org/city/guangdong/maoming/jiankanglu/
+102,21.690558,110.871146,"Gaoling, Maoming",guangdong,http://aqicn.org/city/guangdong/maoming/gaoling/
+103,24.325415,116.12816,"Jiaying University, Meizhou",guangdong,http://aqicn.org/city/guangdong/meizhou/jiayingdaxue/
+104,24.269283,116.084546,"Mexian new town, Meizhou",guangdong,http://aqicn.org/city/guangdong/meizhou/meixianxincheng/
+105,24.262778,116.129621,"Environmental Monitoring Center, Meizhou",guangdong,http://aqicn.org/city/guangdong/meizhou/huanjingjiankongzhongxin/
+106,22.772349,115.370205,"City EPA, Shanwei",guangdong,http://aqicn.org/city/guangdong/shanwei/shihuanbaoju/
+107,22.784017,115.367702,"City government, Shanwei",guangdong,http://aqicn.org/city/guangdong/shanwei/shizhengfu/
+108,22.789851,115.367146,"Xincheng Middle School, Shanwei",guangdong,http://aqicn.org/city/guangdong/shanwei/xinchengzhongxue/
+109,23.755946,114.699091,"No.3 elementary school, Heyuan",guangdong,http://aqicn.org/city/guangdong/heyuan/shisanxiao/
+110,23.75435,114.703514,"No.3 elementary school, Heyuan",guangdong,http://aqicn.org/city/guangdong/heyuan/shisanxiao/
+111,23.754246,114.682459,"City water company, Heyuan",guangdong,http://aqicn.org/city/guangdong/heyuan/shizilaishuichang/
+112,23.688709,114.954652,"City water company, Heyuan",guangdong,http://aqicn.org/city/guangdong/heyuan/shizilaishuichang/
+113,23.720666,114.693879,"Heyuan high school, Heyuan",guangdong,http://aqicn.org/city/guangdong/heyuan/heyuanzhongxue/
+114,23.720037,114.699563,"Heyuan high school, Heyuan",guangdong,http://aqicn.org/city/guangdong/heyuan/heyuanzhongxue/
+115,23.740888,114.705147,Heyuan,heyuan,http://aqicn.org/city/heyuan/
+116,21.855869,111.983676,"Yuanyang Lake, Yangjiang",guangdong,http://aqicn.org/city/guangdong/yangjiang/yuanyanghu/
+117,21.862183,111.954437,"Manandong, Yangjiang",guangdong,http://aqicn.org/city/guangdong/yangjiang/manandong/
+118,23.708005,113.026215,"Town governement, Qingyuan",guangdong,http://aqicn.org/city/guangdong/qingyuan/chengquzhengfu/
+119,24.185415,113.419369,"Fupin district, Qingyuan",guangdong,http://aqicn.org/city/guangdong/qingyuan/fupinqu/
+120,23.624781,113.067713,"Fupin district, Qingyuan",guangdong,http://aqicn.org/city/guangdong/qingyuan/fupinqu/
+121,23.685931,113.053239,"Environment protection office, Qingyuan",guangdong,http://aqicn.org/city/guangdong/qingyuan/huanbaoju/
+122,23.691109,113.047948,"Environment protection office, Qingyuan",guangdong,http://aqicn.org/city/guangdong/qingyuan/huanbaoju/
+123,23.695447,113.068189,"Fengcheng Subdistrict, Qingyuan",china,http://aqicn.org/city/china/qingyuan/fengchengjieban/
+124,23.679304,113.061513,Qingyuan,qingyuan,http://aqicn.org/city/qingyuan/
+125,23.668654,116.638272,"Xiyuan Road, Chaozhou",guangdong,http://aqicn.org/city/guangdong/chaozhou/xiyuanlu/
+126,23.667881,116.649104,"Archives Bureau, Chaozhou",guangdong,http://aqicn.org/city/guangdong/chaozhou/danganju/
+127,23.65035,116.621859,"Municipal Corporation, Chaozhou",guangdong,http://aqicn.org/city/guangdong/chaozhou/shizhenggongsi/
+128,23.532877,116.374427,"Donghu Park, Jieyang",guangdong,http://aqicn.org/city/guangdong/jieyang/donghugongyuan/
+129,23.52682,116.414123,"Yuhu Middle School, Jieyang",guangdong,http://aqicn.org/city/guangdong/jieyang/yuhuchujizhongxue/
+130,23.571473,116.364137,"Experimental Primary School, Jieyang",guangdong,http://aqicn.org/city/guangdong/jieyang/shiyanxiaoxue/
+131,22.936779,112.042248,"City Environmental Monitoring Station, Yunfu",guangdong,http://aqicn.org/city/guangdong/yunfu/shihuanjingjiancezhan/
+132,22.914275,112.044475,"The new city government headquarters, Yunfu",guangdong,http://aqicn.org/city/guangdong/yunfu/xinshifuzhihuibu/
+133,22.951267,112.05923,"Muyang police sub-station, Yunfu",guangdong,http://aqicn.org/city/guangdong/yunfu/muyangpaichusuo/
+134,22.587949,114.266899,Yantian,shenzhen,http://aqicn.org/city/shenzhen/yantian/
+135,22.354168,114.134558,Kwai Chung,shenzhen,http://aqicn.org/city/shenzhen/xixiang/
+136,22.572837,113.867166,Kwai Chung,shenzhen,http://aqicn.org/city/shenzhen/xixiang/
+137,22.513802,113.928051,Nanyou,shenzhen,http://aqicn.org/city/shenzhen/nanyou/
+138,22.59611,114.318345,Meisha,shenzhen,http://aqicn.org/city/shenzhen/meisha/
+139,22.717524,114.252304,Xi xiang,shenzhen,http://aqicn.org/city/shenzhen/longgang/
+140,22.54732,114.101205,Liyuan,shenzhen,http://aqicn.org/city/shenzhen/liyuan/
+141,22.539549,113.992458,OCT,shenzhen,http://aqicn.org/city/shenzhen/huaqiaocheng/
+142,22.559647,114.121976,Honghu,shenzhen,http://aqicn.org/city/shenzhen/honghu/
+143,22.694131,114.050496,Mission Hills,shenzhen,http://aqicn.org/city/shenzhen/guanlan/
+144,22.540382,114.062982,Shenzhen,shenzhen,http://aqicn.org/city/shenzhen/
+145,30.622581,104.069564,Chengdu,chengdu,http://aqicn.org/city/chengdu/
+146,30.710359,103.974209,"Jinquan lianghe, Chengdu",china,http://aqicn.org/city/china/chengdu/jinquanlianghe/
+147,30.684718,104.17845,"Shilidian, Chengdu",china,http://aqicn.org/city/china/chengdu/shilidian/
+148,30.568159,104.081524,"Sanwayao, Chengdu",china,http://aqicn.org/city/china/chengdu/sanwayao/
+149,30.633685,104.120536,"Shahepu, Chengdu",china,http://aqicn.org/city/china/chengdu/shahepu/
+150,30.682601,104.076522,"Liang Lane, Chengdu",china,http://aqicn.org/city/china/chengdu/liangjiaxiang/
+151,30.651891,104.0284,"Caotang Temple, Chengdu",china,http://aqicn.org/city/china/chengdu/caotangsi/
+152,31.025729,103.615022,"Lingyansi, Chengdu",china,http://aqicn.org/city/china/chengdu/lingyansi/
+153,31.472493,104.7806,"Fuleshan, Mianyang",china,http://aqicn.org/city/china/mianyang/fuleshan/
+154,31.463309,104.674293,"High-tech Zone Water Company, Mianyang",china,http://aqicn.org/city/china/mianyang/gaoxinquzilaishuigongsi/
+155,31.505002,104.731054,"No.3 water company, Mianyang",china,http://aqicn.org/city/china/mianyang/sanshuichang/
+156,31.465174,104.681731,Mianyang,mianyang,http://aqicn.org/city/mianyang/
+157,31.118648,104.424587,"Dongshan Park, Deyang",china,http://aqicn.org/city/china/deyang/dongshangongyuan/
+158,31.131159,104.390972,"Xixiaoqu, Deyang",china,http://aqicn.org/city/china/deyang/xixiaoqu/
+159,31.114554,104.407986,"City Procuratorate, Deyang",china,http://aqicn.org/city/china/deyang/shijianchayuan/
+160,31.108606,104.356506,"Refractory Factory, Deyang",china,http://aqicn.org/city/china/deyang/naihuocailiaochang/
+161,31.124715,104.400703,Deyang,deyang,http://aqicn.org/city/deyang/
+162,26.566698,101.695438,"Nongnongping, Panzhihua",china,http://aqicn.org/city/china/panzhihua/longlongping/
+163,26.589072,101.578312,"Hemenkou, Panzhihua",china,http://aqicn.org/city/china/panzhihua/hemenkou/
+164,26.58143,101.718473,"Bingcaogang, Panzhihua",china,http://aqicn.org/city/china/panzhihua/bingcaogang/
+165,26.498166,101.746887,"Renhe, Panzhihua",china,http://aqicn.org/city/china/panzhihua/renhe/
+166,26.553226,101.84862,"Jinjina, Panzhihua",china,http://aqicn.org/city/china/panzhihua/jinjiang/
+167,26.578779,101.720211,Panzhihua,panzhihua,http://aqicn.org/city/panzhihua/
+168,28.815979,104.599199,"Shima Middle School, Yibin",china,http://aqicn.org/city/china/yibin/shimazhongxue/
+169,28.762654,104.624834,"Municipal party committee, Yibin",china,http://aqicn.org/city/china/yibin/shiwei/
+170,28.783257,104.608407,"No. 4 middle school, Yibin",china,http://aqicn.org/city/china/yibin/yibinsizhong/
+171,28.760477,104.644079,"City government, Yibin",china,http://aqicn.org/city/china/yibin/shizhengfu/
+172,28.712319,104.578389,"Huangjinzui, Yibin",china,http://aqicn.org/city/china/yibin/huangjinzui/
+173,28.795569,104.681393,"Shaping Middle School, Yibin",china,http://aqicn.org/city/china/yibin/shapingzhongxue/
+174,28.748384,104.645766,Yibin,yibin,http://aqicn.org/city/yibin/
+175,29.359969,104.757388,"Datang Hill, Zigong",china,http://aqicn.org/city/china/zigong/datangshan/
+176,29.355752,104.724036,"Yanma Road, Zigong",china,http://aqicn.org/city/china/zigong/yanmalu/
+177,29.353555,104.777397,"Tanmulin Street, Zigong",china,http://aqicn.org/city/china/zigong/tanmulinjie/
+178,29.33825,104.771895,"Chunhua Road, Zigong",china,http://aqicn.org/city/china/zigong/chunhualu/
+179,29.33617,104.781138,Zigong,zigong,http://aqicn.org/city/zigong/
+180,28.955347,105.434207,"Jiushi Hill, Luzhou",china,http://aqicn.org/city/china/luzhou/jiushishan/
+181,28.899583,105.447192,"Xiaoshishang Port, Luzhou",china,http://aqicn.org/city/china/luzhou/xiaoshishangmatou/
+182,28.852766,105.4358,"Lantianxian Bridge, Luzhou",china,http://aqicn.org/city/china/luzhou/lantianxianqiao/
+183,28.895898,105.435802,"City Environment Monitoring Station, Luzhou",china,http://aqicn.org/city/china/luzhou/shihuanjianzhan/
+184,28.868782,105.445938,Luzhou,luzhou,http://aqicn.org/city/luzhou/
+185,30.799993,106.082906,"City Committee, Nanchong",china,http://aqicn.org/city/china/nanchong/nanchongshiwei/
+186,30.819412,106.10712,"Refinery Factory, Nanchong",china,http://aqicn.org/city/china/nanchong/nanchonglianyouchang/
+187,30.783291,106.110417,"Gaoping District Monitoring Station, Nanchong",china,http://aqicn.org/city/china/nanchong/gaopingqujiancezhan/
+188,30.761255,106.06818,"Jialing District EPB, Nanchong",china,http://aqicn.org/city/china/nanchong/jialingquhuanbaoju/
+189,30.836519,106.11272,"City Environmental Monitoring Station, Nanchong",china,http://aqicn.org/city/china/nanchong/shihuanjingjiancezhan/
+190,30.835511,106.114717,Nanchong,nanchong,http://aqicn.org/city/nanchong/
+191,41.785668,123.432865,Shenyang US Consulate,shenyang,http://aqicn.org/city/shenyang/usconsulate/
+192,41.835421,123.647773,"Huishan, Shenyang",china,http://aqicn.org/city/china/shenyang/huishan/
+193,41.758263,123.540809,"Hunnan, Shenyang",china,http://aqicn.org/city/china/shenyang/hunnaner/
+194,41.771679,123.289859,"Zhangshi, Shenyang",china,http://aqicn.org/city/china/shenyang/zhangshi/
+195,41.835749,123.547799,"Artillery College, Shenyang",china,http://aqicn.org/city/china/shenyang/paobingxueyuan/
+196,41.849633,123.434146,"Beiling, Shenyang",china,http://aqicn.org/city/china/shenyang/beiling/
+197,41.767444,123.416144,"Wenyi Road, Shenyang",china,http://aqicn.org/city/china/shenyang/wenyilu/
+198,41.779828,123.484015,"Xiaoheyan, Shenyang",china,http://aqicn.org/city/china/shenyang/xiaoheyan/
+199,41.799646,123.406146,"Taiyuan Street, Shenyang",china,http://aqicn.org/city/china/shenyang/taiyuanjie/
+200,41.783011,123.366679,"Ermao, Shenyang",china,http://aqicn.org/city/china/shenyang/ermao/
+201,41.830704,123.361071,"Liaoning University, Shenyang",china,http://aqicn.org/city/china/shenyang/liaoda/
+202,41.808126,123.437611,Shenyang,shenyang,http://aqicn.org/city/shenyang/
+203,38.9747,121.616893,"Ganjingzi, Dalian",china,http://aqicn.org/city/china/dalian/ganjingzi/
+204,38.951928,121.569981,"Zhoushuizi, Dalian",china,http://aqicn.org/city/china/dalian/zhoushuizi/
+205,38.885779,121.568864,"Xinghai No 3 station, Dalian",china,http://aqicn.org/city/china/dalian/xinghaisanzhan/
+206,38.91274,121.638018,"Qingniwa Bridge, Dalian",china,http://aqicn.org/city/china/dalian/qingniwaqiao/
+207,38.864647,121.629947,"Fujiazhuang, Dalian",china,http://aqicn.org/city/china/dalian/fujiazhuang/
+208,38.856978,121.523169,"Qixianling, Dalian",china,http://aqicn.org/city/china/dalian/qixianling/
+209,38.808946,121.264063,"Lushun, Dalian",china,http://aqicn.org/city/china/dalian/lvshun/
+210,39.132192,121.753259,"Jinzhou, Dalian",china,http://aqicn.org/city/china/dalian/jinzhou/
+211,39.05213,121.782022,"BDA, Dalian",china,http://aqicn.org/city/china/dalian/kaifaqu/
+212,39.064087,121.981874,"D&D Port, Dalian",china,http://aqicn.org/city/china/dalian/shuangdgang/
+213,38.91478,121.619625,Dalian,dalian,http://aqicn.org/city/dalian/
+214,40.068929,124.345703,"Bearing Factory, Dandong",china,http://aqicn.org/city/china/dandong/zhouchengchang/
+215,40.158723,124.432593,"Financial school, Dandong",china,http://aqicn.org/city/china/dandong/caizhuan/
+216,40.149431,124.391698,"Yuanbaoshan water, Dandong",china,http://aqicn.org/city/china/dandong/yuanbaoshanshuichang/
+217,39.887343,124.158056,"Experimental Primary School, Dandong",china,http://aqicn.org/city/china/dandong/shiyanxiaoxue/
+218,40.002046,124.360479,Dandong,dandong,http://aqicn.org/city/dandong/
+219,41.157144,122.06645,"BDA, Panjin",china,http://aqicn.org/city/china/panjin/kaifaqu/
+220,41.140948,122.111343,"Xinglongtai, Panjin",china,http://aqicn.org/city/china/panjin/xinglongtai/
+221,41.16139,121.928781,"Dingxiang, Panjin",china,http://aqicn.org/city/china/panjin/dingxiang/
+222,41.122089,122.076206,Panjin,panjin,http://aqicn.org/city/panjin/
+223,40.682052,122.385352,"No.3 water company, Yingkou",china,http://aqicn.org/city/china/yingkou/sanshuichang/
+224,40.683689,122.388285,"Yingkou University, Yingkou",china,http://aqicn.org/city/china/yingkou/yingkoudaxue/
+225,40.711674,122.281568,"Botanical garden, Yingkou",china,http://aqicn.org/city/china/yingkou/zhiwuyuan/
+226,40.668578,122.24059,Yingkou,yingkou,http://aqicn.org/city/yingkou/
+227,40.724078,120.921974,"Xishanpo, Huludao",china,http://aqicn.org/city/china/huludao/huludaoshixishanpo/
+228,40.755662,120.848435,"Huagong hospital, Huludao",china,http://aqicn.org/city/china/huludao/huagongyiyuan/
+229,40.723415,120.853801,"New district park, Huludao",china,http://aqicn.org/city/china/huludao/xinqugongyuan/
+230,40.775488,120.872292,"Lianshan district governement, Huludao",china,http://aqicn.org/city/china/huludao/lianshanquzhengfu/
+231,40.712501,120.842107,Huludao,huludao,http://aqicn.org/city/huludao/
+232,41.110466,123.000147,Anshan,anshan,http://aqicn.org/city/anshan/
+233,41.033486,123.143897,"Qianshan Park, Anshan",china,http://aqicn.org/city/china/anshan/qianshangongyuan/
+234,41.121636,122.97506,"Tiexi, Anshan",china,http://aqicn.org/city/china/anshan/tiexi/
+235,41.153322,123.052433,"Taiping Station, Anshan",china,http://aqicn.org/city/china/anshan/taipingzizhan/
+236,41.106731,123.002736,"Central Station, Anshan",china,http://aqicn.org/city/china/anshan/zhongxinzhan/
+237,41.137157,123.031901,"Shengou Temple, Anshan",china,http://aqicn.org/city/china/anshan/shengousi/
+238,41.883028,123.962984,Fushun,fushun,http://aqicn.org/city/fushun/
+239,41.804638,123.631684,"Shenfu new town, Fushun",china,http://aqicn.org/city/china/fushun/shenfuxincheng/
+240,41.8464,123.802857,"Reservoir, Fushun",china,http://aqicn.org/city/china/fushun/shuiku/
+241,41.89726,124.017604,"Train Station, Fushun",china,http://aqicn.org/city/china/fushun/zhanqian/
+242,41.855578,124.044738,"Dongzhou, Fushun",china,http://aqicn.org/city/china/fushun/dongzhou/
+243,41.888598,123.932932,"Xinhua, Fushun",china,http://aqicn.org/city/china/fushun/xinhua/
+244,41.888825,123.093723,"Wanghua, Fushun",china,http://aqicn.org/city/china/fushun/wanghua/
+245,41.296267,123.772371,Benxi,benxi,http://aqicn.org/city/benxi/
+246,41.349663,123.826071,"Weining, Benxi",china,http://aqicn.org/city/china/benxi/weining/
+247,41.305432,123.74645,"Occupational disease hospital, Benxi",china,http://aqicn.org/city/china/benxi/zhiyebingyuan/
+248,41.292369,123.765058,"Dongming, Benxi",china,http://aqicn.org/city/china/benxi/dongming/
+249,41.301591,123.746039,"Caitun, Benxi",china,http://aqicn.org/city/china/benxi/caitun/
+250,41.331332,123.773537,"Xihu, Benxi",china,http://aqicn.org/city/china/benxi/xihu/
+251,41.308091,123.818442,"Dayu, Benxi",china,http://aqicn.org/city/china/benxi/dayu/
+252,41.097169,121.132647,Jinzhou,jinzhou,http://aqicn.org/city/jinzhou/
+253,41.141447,121.137339,"Beihu Park, Jinzhou",china,http://aqicn.org/city/china/jinzhou/beihugongyuan/
+254,40.112884,121.140785,"Monitoring station, Jinzhou",china,http://aqicn.org/city/china/jinzhou/jiancezhan/
+255,41.570689,122.046753,"Nanshan, Jinzhou",china,http://aqicn.org/city/china/jinzhou/nanshan/
+256,40.06892,116.357905,"Flour Mill, Chaoyang",china,http://aqicn.org/city/china/chaoyang/mianfenchang/
+257,41.573716,120.461652,"Landscape Management Office, Chaoyang",china,http://aqicn.org/city/china/chaoyang/yuanlinguanlichu/
+258,41.598393,120.446518,"No.1 Construction company, Component factory, Chaoyang",china,http://aqicn.org/city/china/chaoyang/yijiangoujianchang/
+259,42.224895,123.732812,"Jinsha River, Tieling",china,http://aqicn.org/city/china/tieling/jinshajiang/
+260,42.297031,123.880748,"Waterpark, Tieling",china,http://aqicn.org/city/china/tieling/shuishangleyuan/
+261,42.24215,123.804596,"Steel Factory, Tieling",china,http://aqicn.org/city/china/tieling/gangchang/
+262,41.274154,123.135012,"Steel Pipe Factory, Liaoyang",china,http://aqicn.org/city/china/liaoyang/gangguanchang/
+263,41.286152,123.18415,"Yuanlin Compound, Liaoyang",china,http://aqicn.org/city/china/liaoyang/yuanlinxiaoqu/
+264,41.2025,123.218071,"Chemical Factory, Liaoyang",china,http://aqicn.org/city/china/liaoyang/liaohua/
+265,42.00535,121.631585,"Environment protection office, Fuxin",china,http://aqicn.org/city/china/fuxin/huanbaoju/
+266,42.071291,121.696445,"Agricultural Area, Fuxin",china,http://aqicn.org/city/china/fuxin/nongyeyuanqu/
+267,42.041052,121.715554,"Industrial Area, Fuxin",china,http://aqicn.org/city/china/fuxin/gongyeyuanqu/
+268,36.662614,117.054645,"City Monitoring Station, Jinan",shandong,http://aqicn.org/city/shandong/jinan/shijiancezhan/
+269,36.63819,117.074975,"Shandong Institute of Economics, Jinan",shandong,http://aqicn.org/city/shandong/jinan/shandongjingjixueyuan/
+270,36.661711,117.027043,"Quancheng Plaza, Jinan",shandong,http://aqicn.org/city/shandong/jinan/quanchengguangchang/
+271,36.611582,116.99384,"Kegansuo, Jinan",shandong,http://aqicn.org/city/shandong/jinan/kegansuo/
+272,36.663115,116.95063,"Agriculture Science Institute, Jinan",shandong,http://aqicn.org/city/shandong/jinan/nongkesuo/
+273,36.700421,116.95342,"Lanxiang technical school, Jinan",shandong,http://aqicn.org/city/shandong/jinan/lanxiangjixiao/
+274,36.687463,116.994406,"Chemical factory, Jinan",shandong,http://aqicn.org/city/shandong/jinan/huagongchang/
+275,36.685706,117.066348,"Provincial Seed Warehouse, Jinan",shandong,http://aqicn.org/city/shandong/jinan/shengzhongzicangku/
+276,36.681732,117.191868,"Shandong Architecture University, Jinan",shandong,http://aqicn.org/city/shandong/jinan/shandongjianzhudaxue/
+277,36.724638,117.130855,"Baosheng cable company, Jinan",shandong,http://aqicn.org/city/shandong/jinan/baoshengdianlan/
+278,36.47869,117.219027,"Paomaling, Jinan",shandong,http://aqicn.org/city/shandong/jinan/paomaling/
+279,36.548797,116.770859,"Changqing District Communist Party School, Jinan",shandong,http://aqicn.org/city/shandong/jinan/changqingquweidangxiao/
+280,36.685835,117.130851,"BDA, Jinan",shandong,http://aqicn.org/city/shandong/jinan/kaifaqu/
+281,36.651426,117.126625,Jinan,jinan,http://aqicn.org/city/jinan/
+282,36.065534,120.40839,"Shinan district No. 1, Qingdao",shandong,http://aqicn.org/city/shandong/qingdao/shinanqu1hao/
+283,36.069919,120.341264,"Shibei district No. 1, Qingdao",shandong,http://aqicn.org/city/shandong/qingdao/shibeiqu1hao/
+284,36.104146,120.36637,"Shibei district No. 2, Qingdao",shandong,http://aqicn.org/city/shandong/qingdao/shibeiqu2hao/
+285,35.958935,120.191041,"Huangdao District No. 1, Qingdao",shandong,http://aqicn.org/city/shandong/qingdao/huangdaoqu1hao/
+286,35.970487,120.160339,"Huangdao District No. 2, Qingdao",shandong,http://aqicn.org/city/shandong/qingdao/huangdaoqu2hao/
+287,36.085881,120.451839,"Laoshan District No. 1, Qingdao",shandong,http://aqicn.org/city/shandong/qingdao/laoshanqu1hao/
+288,36.091075,120.490388,"Laoshan District No. 2, Qingdao",shandong,http://aqicn.org/city/shandong/qingdao/laoshanqu2hao/
+289,36.184872,120.38533,"Licang District No. 1, Qingdao",shandong,http://aqicn.org/city/shandong/qingdao/licangqu1hao/
+290,36.154369,120.432287,"Licang District No. 2, Qingdao",shandong,http://aqicn.org/city/shandong/qingdao/licangqu2hao/
+291,36.308502,120.40008,"Chengyang District No. 1, Qingdao",shandong,http://aqicn.org/city/shandong/qingdao/chengyangqu1hao/
+292,36.308429,120.465806,"Chengyang District No. 2, Qingdao",shandong,http://aqicn.org/city/shandong/qingdao/chengyangqu2hao/
+293,36.067358,120.387773,Qingdao,qingdao,http://aqicn.org/city/qingdao/
+294,36.637916,117.960222,"Zichuan Meteo. Stations, Zibo",shandong,http://aqicn.org/city/shandong/zibo/zichuanqixiangzhan/
+295,36.838576,118.050785,"Dongfeng Chemical factory, Zibo",shandong,http://aqicn.org/city/shandong/zibo/dongfenghuagongchang/
+296,36.497278,117.853581,"Boshan shuangshan, Zibo",shandong,http://aqicn.org/city/shandong/zibo/boshanshuangshan/
+297,36.820171,118.315022,"Linzi Putian Park, Zibo",shandong,http://aqicn.org/city/shandong/zibo/linziputianyuan/
+298,36.765907,118.254967,"Qilu Petrochemical, Zibo",shandong,http://aqicn.org/city/shandong/zibo/qilushihua/
+299,36.8044,117.85694,"Zhoucun sanjin Group, Zibo",shandong,http://aqicn.org/city/shandong/zibo/zhoucunsanjinjituan/
+300,36.825208,117.926305,"Vocational College, Zibo",shandong,http://aqicn.org/city/shandong/zibo/zhiyexueyuan/
+301,36.905214,118.021824,"BDA, Zibo",shandong,http://aqicn.org/city/shandong/zibo/kaifaqu/
+302,36.813618,118.060948,Zibo,zibo,http://aqicn.org/city/zibo/
+303,34.850397,117.569545,"Shizhong District Government, Zaozhuang",shandong,http://aqicn.org/city/shandong/zaozhuang/shizhongquzhengfu/
+304,34.818951,117.595345,"Sewage treatment plant, Zaozhuang",shandong,http://aqicn.org/city/shandong/zaozhuang/wushuichulichang/
+305,34.790214,117.272455,"Xuecheng EPA, Zaozhuang",shandong,http://aqicn.org/city/shandong/zaozhuang/xuechengquhuanbaoju/
+306,34.772806,117.57647,"Yicheng District government, Zaozhuang",shandong,http://aqicn.org/city/shandong/zaozhuang/yichengquzhengfu/
+307,34.579462,117.741067,"Taierzhuang EPA, Zaozhuang",shandong,http://aqicn.org/city/shandong/zaozhuang/taierzhuanghuanbaoju/
+308,35.070373,117.457691,"Shanting EPA, Zaozhuang",shandong,http://aqicn.org/city/shandong/zaozhuang/shantingquhuanbaoju/
+309,34.809466,117.320608,"City EPA, Zaozhuang",shandong,http://aqicn.org/city/shandong/zaozhuang/shihuanbaoju/
+310,34.821779,117.363495,"High-tech zone, Zaozhuang",shandong,http://aqicn.org/city/shandong/zaozhuang/gaoxinqu/
+311,34.809693,117.329634,Zaozhuang,zaozhuang,http://aqicn.org/city/zaozhuang/
+312,37.432052,118.672871,"City EPA, Dongying",shandong,http://aqicn.org/city/shandong/dongying/shihuanbaoju/
+313,37.438653,118.630567,"Vocational College, Dongying",shandong,http://aqicn.org/city/shandong/dongying/zhiyexueyuan/
+314,37.442419,118.510222,"Xianhe Oil Production Plant, Dongying",shandong,http://aqicn.org/city/shandong/dongying/xianhecaiyouchang/
+315,37.445072,118.55839,"Gengjin village, Dongying",shandong,http://aqicn.org/city/shandong/dongying/gengjingcun/
+316,37.466599,118.508012,"City environmental company, Dongying",shandong,http://aqicn.org/city/shandong/dongying/shihuanbaogongsi/
+317,37.883786,118.522171,"Hekou  district, Dongying",shandong,http://aqicn.org/city/shandong/dongying/hekouqu/
+318,37.435162,118.701827,"BDA, Dongying",shandong,http://aqicn.org/city/shandong/dongying/kaifaqu/
+319,37.435429,118.680434,Dongying,dongying,http://aqicn.org/city/dongying/
+320,37.544126,121.376956,"Bearing Factory, Yantai",shandong,http://aqicn.org/city/shandong/yantai/zhouchengchang/
+321,37.547148,121.323695,"Xijiao Chemical Station, Yantai",shandong,http://aqicn.org/city/shandong/yantai/xijiaohuagongzhan/
+322,37.472245,121.260116,"Fushan Monitoring Stations, Yantai",shandong,http://aqicn.org/city/shandong/yantai/fushanqujiancezhan/
+323,37.376681,121.586509,"Mouping EPA, Yantai",shandong,http://aqicn.org/city/shandong/yantai/moupingquhuanbaoju/
+324,37.478422,121.44829,"Laishan EPA, Yantai",shandong,http://aqicn.org/city/shandong/yantai/laishanquhuanbaoju/
+325,37.4271,121.408386,"Laishan Shengquan Industrial Park, Yantai",shandong,http://aqicn.org/city/shandong/yantai/laishanshengquangongyeyuan/
+326,37.423568,121.511838,"China Agricultural University, Yantai",shandong,http://aqicn.org/city/shandong/yantai/zhongguonongyedaxue/
+327,37.560827,121.257954,"BDA EPA, Yantai",shandong,http://aqicn.org/city/shandong/yantai/kaifaquhuanbaoju/
+328,37.603405,121.147369,"BDA zone B, Yantai",shandong,http://aqicn.org/city/shandong/yantai/kaifaqubqu/
+329,37.673849,121.071465,"Dajijia, Yantai",shandong,http://aqicn.org/city/shandong/yantai/dajijia/
+330,37.464793,121.453142,Yantai,yantai,http://aqicn.org/city/yantai/
+331,36.720022,119.054064,"BDA, Weifang",shandong,http://aqicn.org/city/shandong/weifang/jingjikaifaqu/
+332,36.682442,119.105909,"Business School, Weifang",shandong,http://aqicn.org/city/shandong/weifang/shangxiao/
+333,36.773484,119.199705,"Hanting District, Weifang",shandong,http://aqicn.org/city/shandong/weifang/hantingqu/
+334,36.657635,119.167266,"Gongda Company, Weifang",shandong,http://aqicn.org/city/shandong/weifang/gongdagongsi/
+335,36.701272,119.16838,"City EPA, Weifang",shandong,http://aqicn.org/city/shandong/weifang/shihuanbaoju/
+336,36.702422,119.145927,"City Arbitration Committee, Weifang",shandong,http://aqicn.org/city/shandong/weifang/shizhongcaiwei/
+337,36.641581,119.11679,"Xinhui Group, Weifang",shandong,http://aqicn.org/city/shandong/weifang/xinhuijituan/
+338,36.773611,119.115539,"Jincheng Middle School, Weifang",shandong,http://aqicn.org/city/shandong/weifang/jinchengzhongxue/
+339,36.707217,119.167638,Weifang,weifang,http://aqicn.org/city/weifang/
+340,35.408443,116.623917,"City Monitoring Station, Jining",shandong,http://aqicn.org/city/shandong/jining/shijiancezhan/
+341,35.364286,116.609177,"Sewage treatment plant, Jining",shandong,http://aqicn.org/city/shandong/jining/wushuichulichang/
+342,35.390473,116.552956,"Electrochemical Factory, Jining",shandong,http://aqicn.org/city/shandong/jining/dianhuachang/
+343,35.390484,116.662995,"Rencheng BDA, Jining",shandong,http://aqicn.org/city/shandong/jining/renchengkaifaqu/
+344,35.44235,116.601682,"Agricultural School, Jining",shandong,http://aqicn.org/city/shandong/jining/nongyexuexiao/
+345,35.436377,116.642953,"BDA Huojucheng, Jining",shandong,http://aqicn.org/city/shandong/jining/kaifaquhuojucheng/
+346,35.414473,116.59239,Jining,jining,http://aqicn.org/city/jining/
+347,36.194362,117.159648,"Taishan monitoring station, Taian",shandong,http://aqicn.org/city/shandong/taian/taishanjiancezhan/
+348,36.176071,117.12413,"Shandong Electric Power School, Taian",shandong,http://aqicn.org/city/shandong/taian/shandongdianlixuexiao/
+349,36.194417,117.104131,"Population Education school, Taian",shandong,http://aqicn.org/city/shandong/taian/renkouxuexiao/
+350,36.204863,117.19015,"Houfeng company, Taian",shandong,http://aqicn.org/city/shandong/taian/houfenggongsi/
+351,36.170179,117.165191,"Nongda new campus, Taian",shandong,http://aqicn.org/city/shandong/taian/nongdaxinxiao/
+352,36.202126,117.047068,"Transportation technical school, Taian",shandong,http://aqicn.org/city/shandong/taian/jiaotongjixiao/
+353,36.116621,117.107458,"ICT Technology, Taian",shandong,http://aqicn.org/city/shandong/taian/xintongkeji/
+354,36.200502,117.093682,Taian,taian,http://aqicn.org/city/taian/
+355,37.513939,122.067058,"City Environmental Monitoring Station, Weihai",shandong,http://aqicn.org/city/shandong/weihai/shihuanjingjiancezhan/
+356,37.325455,122.160777,"Woodworking Factory, Weihai",shandong,http://aqicn.org/city/shandong/weihai/mugongjixiechang/
+357,37.514641,122.146276,"Lantian Hotel, Weihai",shandong,http://aqicn.org/city/shandong/weihai/lantianbinguan/
+358,37.485561,122.049436,"Zhang village government, Weihai",shandong,http://aqicn.org/city/shandong/weihai/zhangcunzhengfu/
+359,37.534919,122.056294,"Gao District Bank, Weihai",shandong,http://aqicn.org/city/shandong/weihai/gaoqujiaoxing/
+360,37.427951,122.130811,"Huxia technical school, Weihai",shandong,http://aqicn.org/city/shandong/weihai/huaxiajixiao/
+361,37.5141,122.125477,Weihai,weihai,http://aqicn.org/city/weihai/
+362,35.4075,119.526008,"City governement square, Rizhao",shandong,http://aqicn.org/city/shandong/rizhao/shizhengfuguangchang/
+363,35.381297,119.55396,"Port Authority, Rizhao",shandong,http://aqicn.org/city/shandong/rizhao/gangwuju/
+364,35.388683,119.496405,"City Monitoring Station, Rizhao",shandong,http://aqicn.org/city/shandong/rizhao/shijiancezhan/
+365,35.462161,119.574193,"Professor Garden, Rizhao",shandong,http://aqicn.org/city/shandong/rizhao/jiaoshouhuayuan/
+366,35.441939,119.538187,"Vocational and Technical College, Rizhao",shandong,http://aqicn.org/city/shandong/rizhao/zhiyejishuxueyuan/
+367,35.293405,119.345716,"Lanshan EPA branch, Rizhao",shandong,http://aqicn.org/city/shandong/rizhao/lanshanhuanbaofenju/
+368,35.373339,119.514108,"Jinma Industrial Park, Rizhao",shandong,http://aqicn.org/city/shandong/rizhao/jinmagongyeyuan/
+369,35.416089,119.532316,Rizhao,rizhao,http://aqicn.org/city/rizhao/
+370,36.205028,117.700917,"Vegetable oil factory, Laiwu",shandong,http://aqicn.org/city/shandong/laiwu/zhiwuyouchang/
+371,36.266067,117.652769,"Nursing home, Laiwu",shandong,http://aqicn.org/city/shandong/laiwu/laoniangongyu/
+372,36.245086,117.739025,"Xinyi middle school, Laiwu",shandong,http://aqicn.org/city/shandong/laiwu/xinyizhongxue/
+373,36.208125,117.730959,"Risheng International School, Laiwu",shandong,http://aqicn.org/city/shandong/laiwu/richengguojixuexiao/
+374,36.066836,117.871823,"Gangcheng EPA, Laiwu",shandong,http://aqicn.org/city/shandong/laiwu/gangchengquhuanbaoju/
+375,36.228913,117.694797,"City EPA, Laiwu",shandong,http://aqicn.org/city/shandong/laiwu/shihuanbaoju/
+376,36.213688,117.682612,Laiwu,laiwu,http://aqicn.org/city/laiwu/
+377,35.061671,118.299527,"Lunan Pharmaceutical Factory, Linyi",shandong,http://aqicn.org/city/shandong/linyi/lunanzhiyaochang/
+378,35.056752,118.34739,"Yihe compound, Linyi",shandong,http://aqicn.org/city/shandong/linyi/yihexiaoqu/
+379,35.114777,118.293414,"Linyi University, Linyi",shandong,http://aqicn.org/city/shandong/linyi/linyidaxue/
+380,35.104871,118.353518,City EPA,shandong,http://aqicn.org/city/shandong/linyi/shihuanbaojunanfang/
+381,34.981004,118.282,"Xinguang woolen factory, Linyi",shandong,http://aqicn.org/city/shandong/linyi/xinguangmaofangchang/
+382,34.998788,118.257275,"Hongfu Baijiu Factory, Linyi",shandong,http://aqicn.org/city/shandong/linyi/hongfujiuye/
+383,37.071066,114.510749,Xingtai,xingtai,http://aqicn.org/city/xingtai/
+384,35.089354,118.40812,"Hedong insurance company, Linyi",shandong,http://aqicn.org/city/shandong/linyi/hedongbaoxiangongsi/
+385,35.010082,118.435749,"Jianghua vehicule center, Linyi",shandong,http://aqicn.org/city/shandong/linyi/jianghuaqimao/
+386,35.10428,118.362202,Linyi,linyi,http://aqicn.org/city/linyi/
+387,37.466063,116.314134,"Heima group, Dezhou",shandong,http://aqicn.org/city/shandong/dezhou/heimajituan/
+388,37.433107,116.377312,"Monitoring station, Dezhou",shandong,http://aqicn.org/city/shandong/dezhou/jiancezhan/
+389,37.449689,116.324709,"Supervision Station, Dezhou",shandong,http://aqicn.org/city/shandong/dezhou/jianlizhan/
+390,37.462809,116.357559,"Huayu technical school, Dezhou",shandong,http://aqicn.org/city/shandong/dezhou/huayujixiao/
+391,37.478848,116.316362,"Shuangyi group, Dezhou",shandong,http://aqicn.org/city/shandong/dezhou/shuangyijituan/
+392,37.434959,116.363366,Dezhou,dezhou,http://aqicn.org/city/dezhou/
+393,36.444473,115.971733,"Dongchang District Government, Liaocheng",shandong,http://aqicn.org/city/shandong/liaocheng/dongchangquzhengfu/
+394,36.456788,116.002383,"Light Machinery Factory No. 2, Liaocheng",shandong,http://aqicn.org/city/shandong/liaocheng/erqingjixiechang/
+395,36.479537,115.989288,"City committee communist party school, Liaocheng",shandong,http://aqicn.org/city/shandong/liaocheng/shiweidangxiao/
+396,36.431933,115.956974,"Customs, Liaocheng",shandong,http://aqicn.org/city/shandong/liaocheng/haiguan/
+397,36.471124,115.960319,"Hongshun Garden, Liaocheng",shandong,http://aqicn.org/city/shandong/liaocheng/hongshunhuayuan/
+398,36.459407,116.043621,"BDA, Liaocheng",shandong,http://aqicn.org/city/shandong/liaocheng/kaifaqu/
+399,36.456792,115.991051,Liaocheng,liaocheng,http://aqicn.org/city/liaocheng/
+400,37.38024,118.026895,"City EPA, Binzhou",shandong,http://aqicn.org/city/shandong/binzhou/shihuanbaoju/
+401,37.38374,117.988996,"Beizhong new school, Binzhou",shandong,http://aqicn.org/city/shandong/binzhou/beizhongxinxiao/
+402,37.36155,118.002648,"No.2 water factory, Binzhou",shandong,http://aqicn.org/city/shandong/binzhou/diershuichang/
+403,37.396138,117.943609,"Keling Chemical factory, Binzhou",shandong,http://aqicn.org/city/shandong/binzhou/kelinghuagong/
+404,37.356122,117.943326,"Yinhe logistics company, Binzhou",shandong,http://aqicn.org/city/shandong/binzhou/yinhewuliu/
+405,37.36815,117.978964,"Bilin compond, Binzhou",shandong,http://aqicn.org/city/shandong/binzhou/bilinxiaoqu/
+406,37.382639,117.976606,Binzhou,binzhou,http://aqicn.org/city/binzhou/
+407,35.248625,115.428775,"Bureau of Meteorology, Heze",shandong,http://aqicn.org/city/shandong/heze/qixiangju/
+408,35.222517,115.531511,"Sewage treatment plant, Heze",shandong,http://aqicn.org/city/shandong/heze/wushuichulichang/
+409,35.237125,115.480591,"Municipal CPPCC, Heze",shandong,http://aqicn.org/city/shandong/heze/shizhengxie/
+410,35.261463,115.524873,"Huarun Pharmaceutical Company, Heze",shandong,http://aqicn.org/city/shandong/heze/huarunzhiyao/
+411,35.269706,115.460934,"Heze University, Heze",shandong,http://aqicn.org/city/shandong/heze/hezexueyuan/
+412,35.233354,115.486503,Heze,heze,http://aqicn.org/city/heze/
+413,38.03155,114.547873,"Shiji Park, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/shijigongyuan/
+414,38.012764,114.473163,"Xinan College, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/xinangaojiao/
+415,38.055503,114.569816,"Chemical College, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/huagongxuexiao/
+416,38.051784,114.461209,"Worker hospital, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/zhigongyiyuan/
+417,38.140638,114.508038,"Northwest Water Company, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/xibeishuiyuan/
+418,38.040482,114.610775,"High-tech zone, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/gaoxinqu/
+659,40.658597,109.846051,Baotou,baotou,http://aqicn.org/city/baotou/
+419,37.910829,114.360264,"Fenglong Montain, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/fenglongshan/
+420,38.042926,114.520834,Shijiazhuang,shijiazhuang,http://aqicn.org/city/shijiazhuang/
+421,39.659306,118.190271,"No. 12 middle school, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/12zhong/
+422,39.669255,118.225185,"Ceramics Company, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/taocigongsi/
+423,39.642301,118.191265,"Commodities Bureau, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/wuziju/
+424,39.644375,118.150383,"Leidazhanzi Station, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/leidazhanzizhan/
+425,39.632334,118.17232,"Supply and marketing cooperatives, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/gongxiaoshe/
+426,39.632175,118.186472,Tangshan,tangshan,http://aqicn.org/city/tangshan/
+427,39.958109,119.607773,"City Monitoring Station, Qinhuangdao",hebei,http://aqicn.org/city/hebei/qinhuangdaoshi/shijiancezhan/
+428,39.829209,119.53194,"Beidaihe, Qinhuangdao",hebei,http://aqicn.org/city/hebei/qinhuangdaoshi/beidaihe/
+429,40.019298,119.767898,"Shanhai Pass, Qinhuangdao",hebei,http://aqicn.org/city/hebei/qinhuangdaoshi/diyiguan/
+430,39.943187,119.542912,"Contruction Plazz, Qinhuangdao",hebei,http://aqicn.org/city/hebei/qinhuangdaoshi/jianshedaxia/
+431,39.93711,119.612769,"City government, Qinhuangdao",hebei,http://aqicn.org/city/hebei/qinhuangdaoshi/shizhengfu/
+432,39.936485,119.606263,Qinhuangdao,qinhuangdao,http://aqicn.org/city/qinhuangdao/
+433,36.620197,114.501891,"CongTai Park, Handan",hebei,http://aqicn.org/city/hebei/handanshi/congtaigongyuan/
+434,36.618145,114.518822,"City EPA, Handan",hebei,http://aqicn.org/city/hebei/handanshi/shihuanbaoju/
+435,36.616064,114.548714,"East Sewage Factory, Handan",hebei,http://aqicn.org/city/hebei/handanshi/dongwushui/
+436,36.578149,114.509854,"Mine Hospital, Handan",hebei,http://aqicn.org/city/hebei/handanshi/kuangyuan/
+437,37.096415,114.538799,"Road and Bridge Corporation, Xingtai",hebei,http://aqicn.org/city/hebei/xingtaishi/luqiaogongsi/
+438,37.097563,114.488001,"Dahuo fontain, Xingtai",hebei,http://aqicn.org/city/hebei/xingtaishi/dahuoquan/
+439,37.053404,114.531819,"Xingtai Normal College, Xingtai",hebei,http://aqicn.org/city/hebei/xingtaishi/xingshigaozhuan/
+440,37.06253,114.490985,"Environment protection office, Xingtai",hebei,http://aqicn.org/city/hebei/xingtaishi/huanbaoju/
+441,38.871737,115.527103,"City Monitoring Station, Baoding",hebei,http://aqicn.org/city/hebei/baodingshi/shijiancezhan/
+442,38.842891,115.467326,"Surface water Company, Baoding",hebei,http://aqicn.org/city/hebei/baodingshi/dibiaoshuichang/
+443,38.896748,115.528102,"Huadian II, Baoding",hebei,http://aqicn.org/city/hebei/baodingshi/huadianerqu/
+444,38.911905,115.477301,"Reception Center, Baoding",hebei,http://aqicn.org/city/hebei/baodingshi/jiedaizhongxin/
+445,38.876949,115.448383,"Film Factory, Baoding",hebei,http://aqicn.org/city/hebei/baodingshi/jiaopianchang/
+446,38.863815,115.499212,"Natatorium, Baoding",hebei,http://aqicn.org/city/hebei/baodingshi/youyongguan/
+447,38.874791,115.471124,Baoding,baoding,http://aqicn.org/city/baoding/
+448,40.770279,114.909106,"Century Compound, Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/shijihaoyuan/
+449,40.874362,114.910119,"North Pumping Station, Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/beibengfang/
+450,40.81232,114.887119,"Hardware Warehouse, Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/wujinku/
+451,40.796301,114.89811,"Tanji Chang, Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/tanjichang/
+452,40.825744,114.893659,Zhangjiakou,zhangjiakou,http://aqicn.org/city/zhangjiakou/
+453,40.917557,117.972331,"Railway, Chengde",hebei,http://aqicn.org/city/hebei/chengdeshi/tielu/
+454,40.974625,117.824437,"Cultural Center, Chengde",hebei,http://aqicn.org/city/hebei/chengdeshi/wenhuazhongxin/
+455,40.985582,117.958304,"Bank of China, Chengde",hebei,http://aqicn.org/city/hebei/chengdeshi/zhongguoyinxing/
+456,40.937567,117.969325,"BDA, Chengde",hebei,http://aqicn.org/city/hebei/chengdeshi/kaifaqu/
+457,41.012579,117.94428,"Ligong, Chengde",hebei,http://aqicn.org/city/hebei/chengdeshi/ligong/
+458,40.955652,117.968737,Chengde,chengde,http://aqicn.org/city/chengde/
+459,38.323507,116.876746,"Municipal EPB, Cangzhou",hebei,http://aqicn.org/city/hebei/cangzhoushi/cangzhoushihuanbaoju/
+460,38.299495,116.890734,"Cangxian Urban Construction Bureau, Cangzhou",hebei,http://aqicn.org/city/hebei/cangzhoushi/cangxianchengjianju/
+461,38.325525,116.863761,"TV Broadcast Station, Cangzhou",hebei,http://aqicn.org/city/hebei/cangzhoushi/dianshizhuanbozhan/
+462,38.305035,116.844625,Cangzhou,cangzhou,http://aqicn.org/city/cangzhou/
+463,39.558157,116.720995,"Environmental Monitoring Supervision Center, Langfang",hebei,http://aqicn.org/city/hebei/langfangshi/huanjingjiancejianlizhongxin/
+464,39.519096,116.689914,"TCM Medical Material Company, Langfang",hebei,http://aqicn.org/city/hebei/langfangshi/yaocaigongsi/
+465,39.576175,116.779041,"BDA, Langfang",hebei,http://aqicn.org/city/hebei/langfangshi/kaifaqu/
+466,39.53517,116.743027,"North China Institute of Aerospace, Langfang",hebei,http://aqicn.org/city/hebei/langfangshi/beihuahangtianxueyuan/
+467,39.539148,116.689668,Langfang,langfang,http://aqicn.org/city/langfang/
+468,37.739679,115.695929,"Hengshui City EPB, Hengshui",hebei,http://aqicn.org/city/hebei/hengshuishi/hengshuishihuanbaoju/
+469,37.738593,115.648837,"Environmental Monitoring Station, Hengshui",hebei,http://aqicn.org/city/hebei/hengshuishi/huanjingjiancezhan/
+470,37.758686,115.70094,"Electrical Machine North Factory, Hengshui",hebei,http://aqicn.org/city/hebei/hengshuishi/dianjibeichang/
+471,37.739562,115.676066,Hengshui,hengshui,http://aqicn.org/city/hengshui/
+472,39.098136,117.157621,"Fukang road, Tianjin",tianjin,http://aqicn.org/city/tianjin/fukanglu/
+473,39.174022,117.199688,"Nankou road, Tianjin",tianjin,http://aqicn.org/city/tianjin/nankoulu/
+474,39.166588,117.15104,"Qinjian street, Tianjin",tianjin,http://aqicn.org/city/tianjin/qinjiandao/
+475,39.120958,117.195112,"Nanjing Road, Tianjin",tianjin,http://aqicn.org/city/tianjin/nanjinglu/
+476,39.111811,117.25147,"Dazhigu No.8 road, Tianjin",tianjin,http://aqicn.org/city/tianjin/dazhigubahaolu/
+477,39.09371,117.207981,"Qianjin street, Tianjin",tianjin,http://aqicn.org/city/tianjin/qianjindao/
+478,39.227167,117.191293,"Huaihe street, Tianjin",tianjin,http://aqicn.org/city/tianjin/huaihedao/
+479,39.134752,117.275125,"Xiangshan street, Tianjin",tianjin,http://aqicn.org/city/tianjin/xiangshandao/
+480,39.088177,117.320884,"Yuejin Road, Tianjin",tianjin,http://aqicn.org/city/tianjin/yuejinlu/
+481,39.064463,117.231268,"Zhujiang street, Tianjin",tianjin,http://aqicn.org/city/tianjin/zhujiangdao/
+482,39.035228,117.713424,"No.4 street, Tianjin",tianjin,http://aqicn.org/city/tianjin/disidajie/
+483,38.840392,117.463805,"Yongming road, Tianjin",tianjin,http://aqicn.org/city/tianjin/yongminglu/
+484,39.138671,117.010083,"Xinhua street, Tianjin",tianjin,http://aqicn.org/city/tianjin/xinhuadao/
+485,38.985659,117.381254,"Jingu Road, Tianjin",tianjin,http://aqicn.org/city/tianjin/jingulu/
+486,39.021768,117.656454,"Tanggu Yingkou street, Tianjin",tianjin,http://aqicn.org/city/tianjin/tangguyingkoudao/
+487,39.248392,117.798043,"Hexi Yijing road, Tianjin",tianjin,http://aqicn.org/city/tianjin/hexiyijinglu/
+488,39.720075,117.310588,"Jianshe Road, Tianjin",tianjin,http://aqicn.org/city/tianjin/jianshelu/
+489,39.373857,117.050329,"Quanzhou South road, Tianjin",tianjin,http://aqicn.org/city/tianjin/quanzhounanlu/
+490,40.043144,117.451062,"Donghuan road, Tianjin",tianjin,http://aqicn.org/city/tianjin/donghuanlu/
+491,38.920418,117.16299,"Tuanpowa, Tianjin",tianjin,http://aqicn.org/city/tianjin/tuanbowa/
+492,39.329193,117.822791,"Guangming Road, Tianjin",tianjin,http://aqicn.org/city/tianjin/guangminglu/
+493,38.943857,116.920624,"Beiwei No.2 road, Tianjin",tianjin,http://aqicn.org/city/tianjin/beiweierlu/
+494,39.079608,117.096583,"Haitai fazhan No.2 road, Tianjin",tianjin,http://aqicn.org/city/tianjin/haitaifazhanerlu/
+495,39.152244,117.381309,"Hangtian road, Tianjin",tianjin,http://aqicn.org/city/tianjin/hangtianlu/
+496,39.159768,117.770477,"Hanbei road, Tianjin",tianjin,http://aqicn.org/city/tianjin/hanbeilu/
+497,39.51757,117.349635,"Baobai highway, Tianjin",tianjin,http://aqicn.org/city/tianjin/baobaigonglu/
+498,39.085164,117.207281,Tianjin,tianjin,http://aqicn.org/city/tianjin/
+499,30.24371,120.132762,"Wolong bridge, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushi/wolongqiao/
+500,30.309669,120.124507,"Hemu primary school, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushi/hemuxiaoxue/
+501,30.265601,120.197583,"Zhejiang Agricultural University, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushi/zhejiangnongda/
+502,30.303516,120.352618,"Xiasha, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushi/xiasha/
+503,30.178555,120.093142,"Yunqi, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushi/yunqi/
+504,30.272425,120.068144,"Xixi, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushi/xixi/
+505,30.179493,120.274184,"Chengxiang town, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushi/chengxiangzhen/
+506,29.638139,119.031092,"Qiandao lake, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushi/qiandaohu/
+507,30.415948,120.305059,"Linping town, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushi/linpingzhen/
+508,30.048419,119.963469,"Fuyang monitoring station, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushifuyangshi/fuyangjiancezhan/
+509,30.044303,119.956356,"No.2 Middle School, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushifuyangshi/zhenerzhong/
+510,30.234185,119.723503,"City Hall, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushilinanshi/shifudalou/
+511,30.229428,119.699591,"No. 4 middle school, Hangzhou",zhejiang,http://aqicn.org/city/zhejiang/hangzhoushilinanshi/disizhongxue/
+512,30.271756,120.159765,Hangzhou,hangzhou,http://aqicn.org/city/hangzhou/
+513,28.009715,120.679129,"City Station, Wenzhou",zhejiang,http://aqicn.org/city/zhejiang/wenzhoushi/shizhan/
+514,28.001846,120.641982,"Ouhai, Wenzhou",zhejiang,http://aqicn.org/city/zhejiang/wenzhoushi/ouhai/
+515,27.968122,120.768393,"Longwan, Wenzhou",zhejiang,http://aqicn.org/city/zhejiang/wenzhoushi/longwan/
+516,27.981763,120.683685,"Nanpu, Wenzhou",zhejiang,http://aqicn.org/city/zhejiang/wenzhoushi/nanpu/
+517,27.990985,120.703425,Wenzhou,wenzhou,http://aqicn.org/city/wenzhou/
+518,30.75437,120.767373,"Monitoring station, Jiaxing",zhejiang,http://aqicn.org/city/zhejiang/jiaxingshi/jiancezhan/
+519,30.745099,120.735004,"Jiaxing University, Jiaxing",zhejiang,http://aqicn.org/city/zhejiang/jiaxingshi/jiaxingxueyuan/
+520,30.775685,120.747969,"Qinghe Primary School, Jiaxing",zhejiang,http://aqicn.org/city/zhejiang/jiaxingshi/qinghexiaoxue/
+521,30.751627,120.762862,Jiaxing,jiaxing,http://aqicn.org/city/jiaxing/
+522,30.891155,120.096593,"Chengbei water plant, Huzhou",zhejiang,http://aqicn.org/city/zhejiang/huzhoushi/chengbeishuichang/
+523,30.859939,120.120168,"Jishan new village, Huzhou",zhejiang,http://aqicn.org/city/zhejiang/huzhoushi/jishanxincun/
+524,30.862371,120.084577,"Town west water plant, Huzhou",zhejiang,http://aqicn.org/city/zhejiang/huzhoushi/chengxishuichang/
+525,30.892304,120.091694,Huzhou,huzhou,http://aqicn.org/city/huzhou/
+526,29.990447,120.647547,"Donghu middle school, Shaoxing",zhejiang,http://aqicn.org/city/zhejiang/shaoxingshi/donghuzhongxue/
+527,30.001695,120.584318,"City EPA station, Shaoxing",zhejiang,http://aqicn.org/city/zhejiang/shaoxingshi/shihuanbaozhan/
+528,29.986643,120.613578,"Chengdong BDA committee, Shaoxing",zhejiang,http://aqicn.org/city/zhejiang/shaoxingshi/chengdongkaifawei/
+529,30.07574,120.62154,"Paojiang station, Shaoxing",zhejiang,http://aqicn.org/city/zhejiang/shaoxingshi/paojiangzhan/
+530,29.930983,120.577131,"Shaoxing technical school, Shaoxing",zhejiang,http://aqicn.org/city/zhejiang/shaoxingshi/shaoxingzhongzhuan/
+531,29.706266,120.253183,"Library, Shaoxing",zhejiang,http://aqicn.org/city/zhejiang/shaoxingshizhujishi/tushuguan/
+532,29.726405,120.221602,"Transporation management station, Shaoxing",zhejiang,http://aqicn.org/city/zhejiang/shaoxingshizhujishi/yunguansuozhan/
+533,30.049601,120.539893,"Dongpu Town Governement, Shaoxing",zhejiang,http://aqicn.org/city/zhejiang/shaoxingshi/dongpuzhenzhengfu/
+534,29.993122,120.590182,Shaoxing,shaoxing,http://aqicn.org/city/shaoxing/
+535,29.100031,119.690373,"City Monitoring Station, Jinhua",zhejiang,http://aqicn.org/city/zhejiang/jinhuashi/shijiancezhan/
+536,29.074022,119.652121,"No.15 middle school, Jinhua",zhejiang,http://aqicn.org/city/zhejiang/jinhuashi/shiwuzhong/
+537,29.110109,119.653654,"No.4 middle school, Jinhua",zhejiang,http://aqicn.org/city/zhejiang/jinhuashi/sizhong/
+538,29.332898,120.083351,"Beiyuan, Jinhua",zhejiang,http://aqicn.org/city/zhejiang/jinhuashiyiwushi/beiyuan/
+539,29.302486,120.095291,"Jiangdong, Jinhua",zhejiang,http://aqicn.org/city/zhejiang/jinhuashiyiwushi/jiangdong/
+540,29.076083,119.65215,Jinhua,jinhua,http://aqicn.org/city/jinhua/
+541,28.937291,118.876081,"EPA building, Quzhou",zhejiang,http://aqicn.org/city/zhejiang/quzhoushi/huanbaodalou/
+542,28.961502,118.880916,"Experimental school, Quzhou",zhejiang,http://aqicn.org/city/zhejiang/quzhoushi/shiyanxuexiao/
+543,28.971452,118.860052,"Quzhou University, Quzhou",zhejiang,http://aqicn.org/city/zhejiang/quzhoushi/quzhouxueyuan/
+544,28.966994,118.864252,Quzhou,quzhou,http://aqicn.org/city/quzhou/
+545,29.951412,122.317679,"Putuo east port, Zhoushan",zhejiang,http://aqicn.org/city/zhejiang/zhoushanshi/putuodonggang/
+546,30.018014,122.126566,"Dinghai tanfeng, Zhoushan",zhejiang,http://aqicn.org/city/zhejiang/zhoushanshi/dinghaitanfeng/
+547,29.983049,122.210763,Zhoushan,zhoushan,http://aqicn.org/city/zhoushan/
+548,28.651216,121.42331,"Taizhou EPA building, Taizhou",zhejiang,http://aqicn.org/city/zhejiang/taizhoushi/taizhouhuanbaodalou/
+549,28.574364,121.381194,"Luqiao Tian Yang Wang, Taizhou",zhejiang,http://aqicn.org/city/zhejiang/taizhoushi/luqiaotianyangwang/
+550,28.656151,121.285064,"Huangyan EPA building, Taizhou",zhejiang,http://aqicn.org/city/zhejiang/taizhoushi/huangyanhuanbaodalou/
+551,28.419638,119.883884,"Yu Zhuang Qian, Lishui",zhejiang,http://aqicn.org/city/zhejiang/lishuishi/yuzhuangqian/
+552,28.444379,119.923103,"Monitoring station building, Lishui",zhejiang,http://aqicn.org/city/zhejiang/lishuishi/jiancezhandalou/
+553,28.450912,119.939332,"Liandu primary school, Lishui",zhejiang,http://aqicn.org/city/zhejiang/lishuishi/lianduxiaoxue/
+554,28.464224,119.927201,Lishui,lishui,http://aqicn.org/city/lishui/
+555,29.860375,121.590148,Taigu Primary School,ningbo,http://aqicn.org/city/ningbo/taiguxiaoxue/
+556,29.848021,121.528519,Qianhu shuihan,ningbo,http://aqicn.org/city/ningbo/shihuanjingjiancezhongxin/
+557,29.886956,121.558691,Sanjiang secondary schools,ningbo,http://aqicn.org/city/ningbo/sanjiangzhongxue/
+558,29.954785,121.717484,Longsai Hospital,ningbo,http://aqicn.org/city/ningbo/longsaiyiyuan/
+559,29.908474,121.839815,Beilun,ningbo,http://aqicn.org/city/ningbo/quhuanbaodaloubeilun/
+560,29.817695,121.564155,Wanli University,ningbo,http://aqicn.org/city/ningbo/wanlixueyuan/
+561,29.774099,121.63814,Money lake plant,ningbo,http://aqicn.org/city/ningbo/qianhushuichang/
+562,29.896774,121.621919,Municipal management station,ningbo,http://aqicn.org/city/ningbo/shizhengguanlizhan/
+563,32.06795,118.779216,"Shanxi Road , Nanjing",jiangsu,http://aqicn.org/city/jiangsu/nanjing/shanxilu/
+564,32.029321,118.80817,"Ruijin Road , Nanjing",jiangsu,http://aqicn.org/city/jiangsu/nanjing/ruijinlu/
+565,32.075423,118.800188,"Xuanwu Lake, Nanjing",jiangsu,http://aqicn.org/city/jiangsu/nanjing/xuanwuhu/
+566,32.007171,118.742217,"Olympic Center, Nanjing",jiangsu,http://aqicn.org/city/jiangsu/nanjing/aotizhongxin/
+567,32.106958,118.919882,"Xianlin University Town , Nanjing",jiangsu,http://aqicn.org/city/jiangsu/nanjing/xianlindaxuecheng/
+568,32.058179,118.802061,Nanjing,nanjing,http://aqicn.org/city/nanjing/
+569,31.24502,120.565211,"Shangfang hill , Suzhou",jiangsu,http://aqicn.org/city/jiangsu/suzhou/shangfangshan/
+570,31.268105,120.61717,"Wuzhong District , Suzhou",jiangsu,http://aqicn.org/city/jiangsu/suzhou/wuzhongqu/
+571,31.297277,120.547262,"Suzhou New District , Suzhou",jiangsu,http://aqicn.org/city/jiangsu/suzhou/suzhouxinqu/
+572,31.307603,120.673257,"Suzhou Industrial Area, Suzhou",jiangsu,http://aqicn.org/city/jiangsu/suzhou/suzhougongyeyuanqu/
+573,31.368674,120.645209,"Xiangcheng district, Suzhou",jiangsu,http://aqicn.org/city/jiangsu/suzhou/xiangchengqu/
+574,31.296701,120.589493,Suzhou,suzhou,http://aqicn.org/city/suzhou/
+575,31.957836,120.917218,"South suburb , Nantong",jiangsu,http://aqicn.org/city/jiangsu/nantong/nanjiao/
+576,31.927873,120.944254,"Xinghu park, Nantong",jiangsu,http://aqicn.org/city/jiangsu/nantong/xinghuhuayuan/
+577,32.039638,120.814358,"Zilang school, Nantong",jiangsu,http://aqicn.org/city/jiangsu/nantong/zilangxueyuan/
+578,31.978005,120.898555,Nantong,nantong,http://aqicn.org/city/nantong/
+579,34.595509,119.226814,Lianyungang,jiangsu,http://aqicn.org/city/jiangsu/lianyungang/
+580,34.588692,119.146693,"Hongmen police substation, Lianyungang",jiangsu,http://aqicn.org/city/jiangsu/lianyungang/hongmenpaichusuo/
+581,34.749957,119.373707,"Xugou Nuclear Expert Village , Lianyungang",jiangsu,http://aqicn.org/city/jiangsu/lianyungang/xugouhedianzhuanjiacun/
+582,34.697574,119.353668,"Hengrui pharmaceutical company, BDA, Lianyungang",jiangsu,http://aqicn.org/city/jiangsu/lianyungang/kaifaquhengruiyiyaogongsi/
+583,34.586791,119.186929,"City Monitoring Station, Lianyungang",jiangsu,http://aqicn.org/city/jiangsu/lianyungang/shijiancezhan/
+584,34.271542,117.177241,"Yellow river new village , Xuzhou",jiangsu,http://aqicn.org/city/jiangsu/xuzhou/huanghexincun/
+585,34.307086,117.197766,"Tongshan Veterinary Hospital , Xuzhou",jiangsu,http://aqicn.org/city/jiangsu/xuzhou/tongshanshouyiyuan/
+586,34.213992,117.261718,"New Town , Xuzhou",jiangsu,http://aqicn.org/city/jiangsu/xuzhou/xinchengqu/
+587,34.289822,117.249721,"Taoyuan road, Xuzhou",jiangsu,http://aqicn.org/city/jiangsu/xuzhou/taoyuanlu/
+588,34.27655,117.299079,"Agricultural Science Academy , Xuzhou",jiangsu,http://aqicn.org/city/jiangsu/xuzhou/nongkeyuan/
+589,34.179384,117.171798,"Tongshan EPA, Xuzhou",jiangsu,http://aqicn.org/city/jiangsu/xuzhou/tongshanquhuanbaoju/
+590,34.20346,117.289825,Xuzhou,xuzhou,http://aqicn.org/city/xuzhou/
+591,32.39233,119.418446,Yangzhou,jiangsu,http://aqicn.org/city/jiangsu/yangzhou/
+592,32.374218,119.394484,"Hanjiang Monitoring Station, Yangzhou",jiangsu,http://aqicn.org/city/jiangsu/yangzhou/hanjiangjiancezhan/
+593,32.401394,119.44444,"No. 4 Hospital, Yangzhou",jiangsu,http://aqicn.org/city/jiangsu/yangzhou/disiyiyuan/
+594,32.406588,119.41591,"City Monitoring Station, Yangzhou",jiangsu,http://aqicn.org/city/jiangsu/yangzhou/shijiancezhan/
+595,31.484752,120.273571,"University Town , Wuxi",jiangsu,http://aqicn.org/city/jiangsu/wuxi/daxuecheng/
+596,31.619969,120.279584,"Shibei High School , Wuxi",jiangsu,http://aqicn.org/city/jiangsu/wuxi/shibeigaozhong/
+597,31.561155,120.249588,"Yuhong Elementary School , Wuxi",jiangsu,http://aqicn.org/city/jiangsu/wuxi/yuhongxiaoxue/
+598,31.488746,120.31575,Wuxi,wuxi,http://aqicn.org/city/wuxi/
+599,31.808037,119.979205,Changzhou,jiangsu,http://aqicn.org/city/jiangsu/changzhou/
+600,31.776476,119.937681,"Chengjian School, Changzhou",jiangsu,http://aqicn.org/city/jiangsu/changzhou/chengjianxuexiao/
+601,31.806828,119.966724,"Changzhou Engineering Institute , Changzhou",jiangsu,http://aqicn.org/city/jiangsu/changzhou/changgongyuan/
+602,31.701788,119.939676,"Wujin Monitoring Station, Changzhou",jiangsu,http://aqicn.org/city/jiangsu/changzhou/wujinjiancezhan/
+603,31.777201,119.979426,"City Monitoring Station, Changzhou",jiangsu,http://aqicn.org/city/jiangsu/changzhou/shijiancezhan/
+604,32.18597,119.431281,Zhenjiang,jiangsu,http://aqicn.org/city/jiangsu/zhenjiang/
+605,32.186174,119.685021,"New District Administrative office , Zhenjiang",jiangsu,http://aqicn.org/city/jiangsu/zhenjiang/xinqubanshichu/
+606,32.212973,119.496253,"Vocational Education Center , Zhenjiang",jiangsu,http://aqicn.org/city/jiangsu/zhenjiang/zhijiaozhongxin/
+607,32.130026,119.435432,"Dantu Monitoring Station , Zhenjiang",jiangsu,http://aqicn.org/city/jiangsu/zhenjiang/dantuqujiancezhan/
+608,32.202178,119.439766,"City Monitoring Station, Zhenjiang",jiangsu,http://aqicn.org/city/jiangsu/zhenjiang/shijiancezhan/
+609,32.300768,119.886757,"Gaogang Adminstrative office , Taizhoushi",jiangsu,http://aqicn.org/city/jiangsu/taizhou/gaogangquzhengfu/
+610,32.461672,119.892761,"Students Innovation Park , Taizhoushi",jiangsu,http://aqicn.org/city/jiangsu/taizhou/liuxueshengchuangyeyuan/
+611,32.453555,119.927852,Taizhoushi,taizhoushi,http://aqicn.org/city/taizhoushi/
+612,33.400859,120.123067,"Yancheng power station , Yancheng",jiangsu,http://aqicn.org/city/jiangsu/yancheng/yanchengdianchang/
+613,33.345939,120.168504,Yancheng,jiangsu,http://aqicn.org/city/jiangsu/yancheng/
+614,33.370531,120.134041,"Wenfeng Middle School , Yancheng",jiangsu,http://aqicn.org/city/jiangsu/yancheng/wenfengzhongxue/
+615,33.393191,120.22978,"BDA Management Committe, Yancheng",jiangsu,http://aqicn.org/city/jiangsu/yancheng/kaifaquguanweihui/
+616,33.390623,120.164423,"City Monitoring Station, Yancheng",jiangsu,http://aqicn.org/city/jiangsu/yancheng/shijiancezhan/
+617,33.960666,118.281004,Suqian,jiangsu,http://aqicn.org/city/jiangsu/suqian/
+618,33.951472,118.298523,"Suqian College , Suqian",jiangsu,http://aqicn.org/city/jiangsu/suqian/suqianxueyuan/
+619,33.95784,118.249505,"Suqian Middle School , Suqian",jiangsu,http://aqicn.org/city/jiangsu/suqian/suqianzhongxue/
+620,33.94932,118.326569,"Suyu District Environmental Protection Agency , Suqian",jiangsu,http://aqicn.org/city/jiangsu/suqian/suyuquhuanbaoju/
+621,33.956982,118.277022,"City Monitoring Station, Suqian",jiangsu,http://aqicn.org/city/jiangsu/suqian/shijiancezhan/
+622,28.653436,121.425185,Taizhou,taizhou,http://aqicn.org/city/taizhou/
+623,30.572324,114.377844,Donghu Liyuan,wuhan,http://aqicn.org/city/wuhan/donghuliyuan/
+624,30.554662,114.256937,Yuehu Lake,wuhan,http://aqicn.org/city/wuhan/hanyangyuehu/
+625,30.61724,114.287652,Hankou Huaqiao ,wuhan,http://aqicn.org/city/wuhan/hankouhuaqiao/
+626,30.530801,114.309438,Wuchang Ziyang ,wuhan,http://aqicn.org/city/wuhan/wuchangziyang/
+627,30.622435,114.375599,Qingshan Ganghua,wuhan,http://aqicn.org/city/wuhan/qingshanganghua/
+628,30.480091,114.162176,Dunkou Xinou,wuhan,http://aqicn.org/city/wuhan/chunkouxinqu/
+629,30.48095,114.40724,Donghu Gaoxin,wuhan,http://aqicn.org/city/wuhan/donghugaoxin/
+630,30.63114,114.135907,Wujianshan,wuhan,http://aqicn.org/city/wuhan/wujiashan/
+631,30.297142,113.858587,Yuanshun Road,wuhan,http://aqicn.org/city/wuhan/chenhuqihao/
+632,30.591973,114.306887,Wuhan,wuhan,http://aqicn.org/city/wuhan/
+633,30.689528,111.292131,Yichang,yichang,http://aqicn.org/city/yichang/
+634,30.332608,112.245451,Jingzhou,jingzhou,http://aqicn.org/city/jingzhou/
+635,30.19723,115.043908,Huangshi,huangshi,http://aqicn.org/city/huangshi/
+636,32.627208,110.803311,Shiyan,shiyan,http://aqicn.org/city/shiyan/
+637,32.007029,112.128496,Xiangyang,xiangyang,http://aqicn.org/city/xiangyang/
+638,30.389244,114.899884,Ezhou,ezhou,http://aqicn.org/city/ezhou/
+639,31.033208,112.205093,Jingmen,jingmen,http://aqicn.org/city/jingmen/
+640,30.922089,113.922387,Xiaogan,xiaogan,http://aqicn.org/city/xiaogan/
+641,30.45124,114.877378,Huanggang,huanggang,http://aqicn.org/city/huanggang/
+642,29.838978,114.327898,Xianning,xianning,http://aqicn.org/city/xianning/
+643,31.688342,113.388675,Suizhou,suizhou,http://aqicn.org/city/suizhou/
+644,30.269587,109.493042,Enshi,enshi,http://aqicn.org/city/enshi/
+645,30.360228,113.460616,Xiantao,xiantao,http://aqicn.org/city/xiantao/
+646,30.399387,112.905661,Qianjiang,qianjiang,http://aqicn.org/city/qianjiang/
+647,30.661027,113.172549,Tianmen,tianmen,http://aqicn.org/city/tianmen/
+648,40.758461,111.731428,"Fertilizer Factory Living Area, Hohhot",cn1,http://aqicn.org/city/cn1/huhehaote/huafeichangshenghuoqu/
+649,40.796326,111.635655,"No.1 Prison, Hohhot",cn1,http://aqicn.org/city/cn1/huhehaote/hushiyijian/
+650,40.801261,111.667996,"Xiaozhao, Hohhot",cn1,http://aqicn.org/city/cn1/huhehaote/xiaozhao/
+651,40.847275,111.668366,"Xingsong Compound, Hohhot",cn1,http://aqicn.org/city/cn1/huhehaote/xingsongxiaoqu/
+652,40.814216,111.622284,"Sugar refinery, Hohhot",cn1,http://aqicn.org/city/cn1/huhehaote/tangchang/
+653,40.843746,111.756056,"Ruyi Sewage Plant, Hohhot",cn1,http://aqicn.org/city/cn1/huhehaote/ruyishuichulichang/
+654,40.278644,111.210658,"No.29 Middle School, Hohhot",cn1,http://aqicn.org/city/cn1/huhehaote/ershijiuzhong/
+655,40.657201,109.886738,"City Environmental Monitoring Station, Baotou",china,http://aqicn.org/city/china/baotou/shihuanjingjiancezhan/
+656,40.586213,110.002224,"Donghe EPB, Baotou",china,http://aqicn.org/city/china/baotou/donghechenghuanju/
+657,40.508334,109.819085,"Baotou shopping mall, Baotou",china,http://aqicn.org/city/china/baotou/baobaidalou/
+658,40.633436,109.879821,"Huilong logistics, Baotou",china,http://aqicn.org/city/china/baotou/huilongwuliu/
+660,39.837048,109.972209,"Huatai Automobile Mall, Eerduosi",china,http://aqicn.org/city/china/eerduosi/huataiqichecheng/
+661,39.789171,109.987742,"Olympus Garden, Eerduosi",china,http://aqicn.org/city/china/eerduosi/aolinhuayuan/
+662,39.609284,109.78704,Eerduosi,eerduosi,http://aqicn.org/city/eerduosi/
+663,42.275552,118.88507,"Tianyi Road, Chifeng",china,http://aqicn.org/city/china/chifeng/tianyilu/
+664,42.329307,118.793045,"Songshan No.1 Middle School, Chifeng",china,http://aqicn.org/city/china/chifeng/songshanyizhong/
+665,42.280714,118.988235,"Hada Street, Chifeng",china,http://aqicn.org/city/china/chifeng/hadajie/
+666,42.171487,118.89501,"Songshan Road, Chifeng",china,http://aqicn.org/city/china/chifeng/songshanlu/
+667,42.259752,118.893027,Chifeng,chifeng,http://aqicn.org/city/chifeng/
+668,26.069106,119.357821,"Gushan, Fuzhou",cn1,http://aqicn.org/city/cn1/fuzhou/gushan/
+669,26.025273,119.423455,"Kuaian, Fuzhou",cn1,http://aqicn.org/city/cn1/fuzhou/kuaian/
+670,26.035656,119.314325,"Normal Univertsity, Fuzhou",cn1,http://aqicn.org/city/cn1/fuzhou/shida/
+671,26.083706,119.312999,"Wusi North Road, Fuzhou",cn1,http://aqicn.org/city/cn1/fuzhou/wusibeilu/
+672,26.073658,119.270984,"Yangqiao West  Road, Fuzhou",cn1,http://aqicn.org/city/cn1/fuzhou/yangqiaoxilu/
+673,26.073734,119.329425,"Ziyang, Fuzhou",cn1,http://aqicn.org/city/cn1/fuzhou/ziyang/
+674,26.071406,119.301294,Fuzhou,fuzhou,http://aqicn.org/city/fuzhou/
+675,24.815345,118.161848,"Xidong, Xiamen",china,http://aqicn.org/city/china/xiamen/xidong/
+676,24.473969,118.156281,"Hongwen, Xiamen",china,http://aqicn.org/city/china/xiamen/hongwen/
+677,24.443168,118.068571,"Gulangyu, Xiamen",china,http://aqicn.org/city/china/xiamen/gulangyu/
+678,24.51235,118.099146,"Huli, Xiamen",china,http://aqicn.org/city/china/xiamen/huli/
+679,24.477187,118.094402,Xiamen,xiamen,http://aqicn.org/city/xiamen/
+680,24.939503,118.598337,"Qingyuan Montain, Quanzhou",china,http://aqicn.org/city/china/quanzhou/qingyuanshan/
+681,24.90867,118.586397,"Tushan Street, Quanzhou",china,http://aqicn.org/city/china/quanzhou/tushanjie/
+682,24.304154,118.070903,"Wanan, Quanzhou",china,http://aqicn.org/city/china/quanzhou/wanan/
+683,24.87179,118.68001,Quanzhou,quanzhou,http://aqicn.org/city/quanzhou/
+684,36.590406,101.755737,"City Environmental Monitoring Station, Xining",cn1,http://aqicn.org/city/cn1/xining/shihuanjingjiancezhan/
+685,36.617062,101.78016,"Provincial Pharmaceutical Warehouse, Xining",cn1,http://aqicn.org/city/cn1/xining/shengyiyaocangku/
+686,36.578536,101.849061,"Silu hospital, Xining",cn1,http://aqicn.org/city/cn1/xining/siluyiyuan/
+687,37.887889,112.528383,"Jiancaoping, Taiyuan",china,http://aqicn.org/city/china/taiyuan/jiancaoping/
+688,37.910779,112.579258,"Jianhe, Taiyuan",china,http://aqicn.org/city/china/taiyuan/jianhe/
+689,38.011589,112.440679,"Shanglan, Taiyuan",china,http://aqicn.org/city/china/taiyuan/shanglan/
+690,37.713164,112.475552,"Jinyuan, Taiyuan",china,http://aqicn.org/city/china/taiyuan/jinyuan/
+691,37.782137,112.483533,"Xiaodian, Taiyuan",china,http://aqicn.org/city/china/taiyuan/xiaodian/
+692,37.869752,112.543332,"Taoyuan, Taiyuan",china,http://aqicn.org/city/china/taiyuan/taoyuan/
+693,37.819998,112.576252,"Wucheng, Taiyuan",china,http://aqicn.org/city/china/taiyuan/wucheng/
+694,37.985902,112.555312,"Nanzhai, Taiyuan",china,http://aqicn.org/city/china/taiyuan/nanzhai/
+695,37.781205,112.494494,"Jinsheng, Taiyuan",china,http://aqicn.org/city/china/taiyuan/jinsheng/
+696,37.871115,112.555178,Taiyuan,taiyuan,http://aqicn.org/city/taiyuan/
+697,36.194062,113.10389,"Monitoring station, Changzhi",china,http://aqicn.org/city/china/changzhi/jiancezhan/
+698,36.212787,113.095221,"Auditing bureau, Changzhi",china,http://aqicn.org/city/china/changzhi/shenjiju/
+699,36.154328,113.116385,"Qinghua station, Changzhi",china,http://aqicn.org/city/china/changzhi/qinghuazhan/
+700,36.185451,113.099481,"No.8 middle school, Changzhi",china,http://aqicn.org/city/china/changzhi/changzhibazhong/
+701,36.195553,113.12292,Changzhi,changzhi,http://aqicn.org/city/changzhi/
+702,40.076997,113.278079,"Yungang Hotel, Datong",china,http://aqicn.org/city/china/datong/yungangbinguan/
+703,40.085608,113.27808,"college of education, Datong",china,http://aqicn.org/city/china/datong/jiaoyuxueyuan/
+704,40.078016,113.307143,Datong,datong,http://aqicn.org/city/datong/
+705,36.07131,111.509046,"Technical Schools, Linfen",china,http://aqicn.org/city/china/linfen/jigongxuexiao/
+706,36.087425,111.508771,"Municipal party committee, Linfen",china,http://aqicn.org/city/china/linfen/shiwei/
+707,36.041614,111.497968,"South Airport, Linfen",china,http://aqicn.org/city/china/linfen/nanjichang/
+708,36.087944,111.525098,Linfen,linfen,http://aqicn.org/city/linfen/
+709,37.848012,113.578636,"City center, Yangquan",china,http://aqicn.org/city/china/yangquan/shizhongxin/
+710,37.857475,113.586921,Yangquan,yangquan,http://aqicn.org/city/yangquan/
+711,35.504787,112.857245,"Water Company, Jincheng",china,http://aqicn.org/city/china/jincheng/zilaishuigongsi/
+712,35.492858,112.841566,"Baiyun shopping mall, Jincheng",china,http://aqicn.org/city/china/jincheng/baiyunshangmao/
+713,35.488422,112.858528,"City EPA, Jincheng",china,http://aqicn.org/city/china/jincheng/shihuanbaoju/
+714,35.484844,112.878073,"Institute of Technology, Jincheng",china,http://aqicn.org/city/china/jincheng/jishuxueyuan/
+715,35.478725,112.838636,"No.1 middle school, Jincheng",china,http://aqicn.org/city/china/jincheng/zezhouyizhong/
+716,35.490287,112.85794,Jincheng,jincheng,http://aqicn.org/city/jincheng/
+717,39.349251,112.453433,"Pingshuo, Shuozhou",china,http://aqicn.org/city/china/shuozhou/pingshuo/
+718,39.320857,112.430641,"District Government, Shuozhou",china,http://aqicn.org/city/china/shuozhou/quzhengfu/
+719,39.331495,112.407997,"City EPA, Shuozhou",china,http://aqicn.org/city/china/shuozhou/shihuanbaoju/
+720,39.377963,112.432877,"No.2 middle school, Shuozhou",china,http://aqicn.org/city/china/shuozhou/shierzhong/
+721,39.332756,112.439672,Shuozhou,shuozhou,http://aqicn.org/city/shuozhou/
+722,37.697891,112.771017,"Jinlun compound, Jinzhong",china,http://aqicn.org/city/china/jinzhong/jinlunxiaoqu/
+723,37.688355,112.725844,"Hydraulic Component Factory, Jinzhong",china,http://aqicn.org/city/china/jinzhong/yeyajianchang/
+724,37.713148,112.732036,"Nandu compound, Jinzhong",china,http://aqicn.org/city/china/jinzhong/nanduxiaoqu/
+725,37.698228,112.714167,"Yuci district government, Jinzhong",china,http://aqicn.org/city/china/jinzhong/yuciquzhengfu/
+726,37.687705,112.759187,Jinzhong,jinzhong,http://aqicn.org/city/jinzhong/
+727,35.012345,111.003215,"Yuncheng Middle School, Yuncheng",china,http://aqicn.org/city/china/yuncheng/yunchengzhongxue/
+728,35.05065,111.029571,"Yudou BDA, Yuncheng",china,http://aqicn.org/city/china/yuncheng/yudukaifaqu/
+729,35.038753,111.051992,"Yuncheng college, Yuncheng",china,http://aqicn.org/city/china/yuncheng/yunchengxueyuan/
+730,35.028727,110.974076,"Regional Technical School, Yuncheng",china,http://aqicn.org/city/china/yuncheng/diqujixiao/
+731,35.084515,111.05339,"Airport new district, Yuncheng",china,http://aqicn.org/city/china/yuncheng/konggangxinqu/
+732,35.025675,111.013344,Yuncheng,yuncheng,http://aqicn.org/city/yuncheng/
+733,38.413292,112.742432,"Jiyin, Xinzhou",china,http://aqicn.org/city/china/xinzhou/jiyin/
+734,38.450069,112.736723,"BDA, Xinzhou",china,http://aqicn.org/city/china/xinzhou/kaifaqu/
+735,38.492043,112.709772,"Convention Center, Xinzhou",china,http://aqicn.org/city/china/xinzhou/huizhanzhongxin/
+736,38.417244,112.740742,Xinzhou,xinzhou,http://aqicn.org/city/xinzhou/
+737,37.522189,111.144365,"City EPA, Luliang",china,http://aqicn.org/city/china/lvliang/shihuanbaoju/
+738,37.51689,111.135101,"Soybean factory, Luliang",china,http://aqicn.org/city/china/lvliang/douzhipinchang/
+739,37.53394,111.138834,"Water Company, Luliang",china,http://aqicn.org/city/china/lvliang/zilaishuigongsi/
+740,25.027007,103.668566,Luliang,luliang,http://aqicn.org/city/luliang/
+741,34.776251,111.198781,"City government, Sanmenxia",china,http://aqicn.org/city/china/sanmenxia/shizhengfu/
+742,34.790723,111.191846,"No.2 Printing Factory, Sanmenxia",%E4%B8%89%E9%97%A8%E5%B3%A1,http://aqicn.org/?city=China/%E4%B8%89%E9%97%A8%E5%B3%A1/%E4%BA%8C%E5%8D%B0
+743,34.800434,111.204332,"BDA, Sanmenxia",china,http://aqicn.org/city/china/sanmenxia/kaifaqu/
+744,34.771506,111.206129,Sanmenxia,sanmenxia,http://aqicn.org/city/sanmenxia/
+745,43.919094,125.329521,"Food Factory, Changchun",china,http://aqicn.org/city/china/changchun/shipinchang/
+746,43.912337,125.293431,"Bus Factory, Changchun",china,http://aqicn.org/city/china/changchun/kechechang/
+747,43.842368,125.285005,"Institute of Posts and Telecommunications, Changchun",china,http://aqicn.org/city/china/changchun/youdianxueyuan/
+748,43.877293,125.371519,"Laodong Park, Changchun",china,http://aqicn.org/city/china/changchun/laodonggongyuan/
+749,43.871825,125.331519,"Forest area, Changchun",china,http://aqicn.org/city/china/changchun/yuanlinchu/
+750,43.79031,125.460561,"Jinyuetan, Changchun",china,http://aqicn.org/city/china/changchun/jingyuetan/
+751,43.552321,125.639086,"Shuaiwanzi, Changchun",china,http://aqicn.org/city/china/changchun/shuaiwanzi/
+752,43.869221,125.42365,"Economic Development Zone Sanitation Department, Changchun",china,http://aqicn.org/city/china/changchun/jingkaiquhuanweichu/
+753,43.819064,125.256375,"High-tech Zone Administrative Committee, Changchun",china,http://aqicn.org/city/china/changchun/gaoxinquguanweihui/
+754,43.852365,125.223399,"Daishan Park, Changchun",china,http://aqicn.org/city/china/changchun/daishangongyuan/
+755,43.819415,125.329977,Changchun,changchun,http://aqicn.org/city/changchun/
+756,43.888081,126.545727,"Hadawan, Jilin",china,http://aqicn.org/city/china/jilin/hadawan/
+757,43.768169,126.678802,"Fengman, Jilin",china,http://aqicn.org/city/china/jilin/fengman/
+758,43.827403,126.502281,"Electric Power College, Jilin",china,http://aqicn.org/city/china/jilin/dianlixueyuan/
+759,43.83531,126.556519,"Jiangnan Park, Jilin",china,http://aqicn.org/city/china/jilin/jiangnangongyuan/
+760,43.838597,126.590068,"Dongjuzi, Jilin",china,http://aqicn.org/city/china/jilin/dongjuzi/
+761,43.907998,126.60813,"Jiangbei, Jilin",%E5%90%89%E6%9E%97,http://aqicn.org/?city=China/%E5%90%89%E6%9E%97/%E6%B1%9F%E5%8C%97
+762,45.619421,122.815434,"Agricultural Science Academy, Jilin",%E5%90%89%E6%9E%97,http://aqicn.org/?city=China/%E5%90%89%E6%9E%97/%E5%86%9C%E7%A7%91%E9%99%A2
+763,43.840137,126.555262,Jilin,jilin,http://aqicn.org/city/jilin/
+764,45.756979,126.548008,"Lingbei, Haerbin",china,http://aqicn.org/city/china/haerbin/lingbei/
+765,45.818624,126.566963,"Songbei Commercial University, Haerbin",china,http://aqicn.org/city/china/haerbin/songbeishangda/
+766,45.544286,126.985183,"Acheng huining, Haerbin",china,http://aqicn.org/city/china/haerbin/achenghuining/
+767,45.724121,126.604906,"Nangang College Street, Haerbin",china,http://aqicn.org/city/china/haerbin/nangangxuefulu/
+768,45.775332,126.695101,"Taiping Hongwei Park, Haerbin",china,http://aqicn.org/city/china/haerbin/taipinghongweigongyuan/
+769,45.768637,126.640955,"Daowai Chengde Square, Haerbin",china,http://aqicn.org/city/china/haerbin/daowaichengdeguangchang/
+770,45.733936,126.691083,"Xiangfang Hongqi Street, Haerbin",china,http://aqicn.org/city/china/haerbin/xiangfanghongqidajie/
+771,45.727765,126.651974,"Dongli Heping Road, Haerbin",china,http://aqicn.org/city/china/haerbin/donglihepinglu/
+772,45.749715,126.59891,"Daoli Jianguo Road, Haerbin",china,http://aqicn.org/city/china/haerbin/daolijianguolu/
+773,45.611951,126.620898,"Pingfang Light Factory, Haerbin",china,http://aqicn.org/city/china/haerbin/pingfangdongqingchang/
+774,45.983745,126.616553,"Hulan Normal College, Haerbin",china,http://aqicn.org/city/china/haerbin/hulanshizhuan/
+775,45.686141,126.626517,"Provincial Academy of Agricultural Sciences, Haerbin",china,http://aqicn.org/city/china/haerbin/shengnongkeyuan/
+776,45.805757,126.541007,Haerbin,haerbin,http://aqicn.org/city/haerbin/
+777,47.365672,123.937016,"Anju Compound, Qiqihaer",china,http://aqicn.org/city/china/qiqihaer/anjixiaoqu/
+778,47.385511,123.990059,"Farming Vehicule Factory, Qiqihaer",china,http://aqicn.org/city/china/qiqihaer/nongmucheliangchang/
+779,47.1853,123.62322,"Fuqu EPA, Qiqihaer",china,http://aqicn.org/city/china/qiqihaer/fuquhuanbaoju/
+780,47.385379,123.923221,"City Center Square, Qiqihaer",china,http://aqicn.org/city/china/qiqihaer/zhongxinguangchang/
+781,47.356387,123.924736,Qiqihaer,qiqihaer,http://aqicn.org/city/qiqihaer/
+782,46.602084,125.073676,"Saertu District, Daqing",china,http://aqicn.org/city/china/daqing/saertuqu/
+783,46.035269,124.723154,"Datong District, Daqing",china,http://aqicn.org/city/china/daqing/datongqu/
+784,46.418381,124.88973,"Honggang District, Daqing",china,http://aqicn.org/city/china/daqing/honggangqu/
+785,46.535426,125.107043,"Longfeng District, Daqing",china,http://aqicn.org/city/china/daqing/longfengqu/
+786,46.635123,124.85648,"Ranghulu District, Daqing",china,http://aqicn.org/city/china/daqing/ranghuluqu/
+787,46.591414,125.110838,Daqing,daqing,http://aqicn.org/city/daqing/
+788,44.610589,129.652672,"Locomotive Factory, Mudanjiang",china,http://aqicn.org/city/china/mudanjiang/jichegongchang/
+789,44.567775,129.617043,"No. 1 hospital, Mudanjiang",china,http://aqicn.org/city/china/mudanjiang/diyiyiyuan/
+790,44.553619,129.640246,Mudanjiang,mudanjiang,http://aqicn.org/city/mudanjiang/
+791,31.782847,117.201512,"Mingzhu Plaza, Hefei",china,http://aqicn.org/city/china/hefei/mingzhuguangchang/
+792,31.874637,117.312573,"Sanli Street, Hefei",china,http://aqicn.org/city/china/hefei/sanlijie/
+793,31.868583,117.264491,"Hupo Compound, Hefei",china,http://aqicn.org/city/china/hefei/huposhanzhuang/
+794,31.90319,117.165584,"Dongpu Reservoir, Hefei",china,http://aqicn.org/city/china/hefei/dongpushuiku/
+795,31.855185,117.255484,"Changjiang middle road, Hefei",china,http://aqicn.org/city/china/hefei/changjiangzhonglu/
+796,31.941771,117.271504,"Luyang District, Hefei",china,http://aqicn.org/city/china/hefei/luyangqu/
+797,31.856595,117.341644,"Yaohai District, Hefei",china,http://aqicn.org/city/china/hefei/yaohaiqu/
+798,31.793644,117.307554,"Baohe District, Hefei",china,http://aqicn.org/city/china/hefei/baohequ/
+799,31.736619,117.283501,"Lake district, Hefei",china,http://aqicn.org/city/china/hefei/binhuxinqu/
+800,31.849755,117.129624,"High-tech zone, Hefei",china,http://aqicn.org/city/china/hefei/gaoxinqu/
+801,31.819449,117.232753,Hefei,hefei,http://aqicn.org/city/hefei/
+802,31.684121,118.511017,"Hudong Road No.4 Elementary School, Maanshan",china,http://aqicn.org/city/china/maanshan/hudonglusixiao/
+803,31.64197,118.488043,"Tianping Garment Factory, Maanshan",china,http://aqicn.org/city/china/maanshan/tianpingfuzhuang/
+804,31.711216,118.648913,"City education base, Maanshan",china,http://aqicn.org/city/china/maanshan/shijiaoyujidi/
+805,31.748546,118.515729,"Cihu No.2 elementary school, Maanshan",china,http://aqicn.org/city/china/maanshan/cihuerxiao/
+806,31.690864,118.48528,"Maanshan steel factory power plant, Maanshan",china,http://aqicn.org/city/china/maanshan/magangdonglichang/
+807,31.668461,118.511939,Maanshan,maanshan,http://aqicn.org/city/maanshan/
+808,31.417056,118.375406,"Science Innovation Center, Wuhu",china,http://aqicn.org/city/china/wuhu/kechuangzhongxin/
+809,31.315914,118.376231,"No.4 Water Plant, Wuhu",china,http://aqicn.org/city/china/wuhu/sishuichang/
+810,31.348955,118.358154,"Monitoring station, Wuhu",china,http://aqicn.org/city/china/wuhu/jiancezhan/
+811,31.382068,118.407639,"Wuqierling Factory, Wuhu",china,http://aqicn.org/city/china/wuhu/wuqierlingchang/
+812,31.351007,118.438322,Wuhu,wuhu,http://aqicn.org/city/wuhu/
+813,28.681036,115.897845,"Jiangxi Foreign Affairs Office, Nanchang",china,http://aqicn.org/city/china/nanchang/shengwaiban/
+814,28.694646,115.892851,"Provincial forestry company, Nanchang",china,http://aqicn.org/city/china/nanchang/shenglinyegongsi/
+815,28.74099,115.818017,"Institute of Forestry, Nanchang",china,http://aqicn.org/city/china/nanchang/linkesuo/
+816,28.693649,115.97793,"Jingdong town government, Nanchang",china,http://aqicn.org/city/china/nanchang/jingdongzhenzhengfu/
+817,28.683582,115.856915,"Contruction Industry College, Nanchang",china,http://aqicn.org/city/china/nanchang/jiangongxuexiao/
+818,28.639112,115.896843,"Xianghu, Nanchang",china,http://aqicn.org/city/china/nanchang/xianghu/
+819,28.796292,115.747122,"Martial Arts School, Nanchang",china,http://aqicn.org/city/china/nanchang/wushuxuexiao/
+820,28.609697,115.916832,"Petrifaction Company, Nanchang",china,http://aqicn.org/city/china/nanchang/shihua/
+821,28.681053,115.935848,"Provincial Station, Nanchang",china,http://aqicn.org/city/china/nanchang/shengzhan/
+822,28.679883,115.863022,Nanchang,nanchang,http://aqicn.org/city/nanchang/
+823,29.584073,115.998671,"Lushan Mountain Observatory, Jiujiang",china,http://aqicn.org/city/china/jiujiang/lushanqixiangtai/
+824,29.678969,115.992271,"Shili, Jiujiang",china,http://aqicn.org/city/china/jiujiang/shili/
+825,29.702089,115.963113,"Maoshantou, Jiujiang",china,http://aqicn.org/city/china/jiujiang/maoshantou/
+826,29.726646,115.993055,"Xiyuan, Jiujiang",china,http://aqicn.org/city/china/jiujiang/xiyuan/
+827,29.650969,116.022581,"Wuqierling Factory, Jiujiang",china,http://aqicn.org/city/china/jiujiang/wuqierqichang/
+828,29.690223,116.067992,"Water Scientific Research Institute, Jiujiang",china,http://aqicn.org/city/china/jiujiang/shuikesuo/
+829,29.601135,115.916354,"Zonghe Industrial Park, Jiujiang",china,http://aqicn.org/city/china/jiujiang/zonghegongyeyuan/
+830,29.75101,116.094516,"Petrochemical General Plant, Jiujiang",china,http://aqicn.org/city/china/jiujiang/shihuazongchang/
+831,29.70254,116.007025,Jiujiang,jiujiang,http://aqicn.org/city/jiujiang/
+832,34.753419,113.687131,"Tobacco Factory, Zhengzhou",china,http://aqicn.org/city/china/zhengzhou/yanchang/
+833,34.773366,113.647067,"Textile Machinery Factory, Zhengzhou",china,http://aqicn.org/city/china/zhengzhou/zhengfangji/
+834,34.800856,113.681126,"Banking College, Zhengzhou",china,http://aqicn.org/city/china/zhengzhou/yinxingxuexiao/
+835,34.807188,113.571089,"Water Supply Company, Zhengzhou",china,http://aqicn.org/city/china/zhengzhou/gongshuigongsi/
+836,34.717652,113.733182,"Economic Development Zone Management Committee, Zhengzhou",china,http://aqicn.org/city/china/zhengzhou/jingkaiquguanwei/
+837,34.772211,113.74009,"No. 47 middle school, Zhengzhou",china,http://aqicn.org/city/china/zhengzhou/sishiqizhong/
+838,34.748404,113.60514,"City Monitoring Station, Zhengzhou",china,http://aqicn.org/city/china/zhengzhou/shijiancezhan/
+839,34.752637,113.641658,"Henan Medical University, Zhengzhou",china,http://aqicn.org/city/china/zhengzhou/heyida/
+840,34.952652,113.64248,"Gangli Reservoir, Zhengzhou",china,http://aqicn.org/city/china/zhengzhou/ganglishuiku/
+841,34.745417,113.631415,Zhengzhou,zhengzhou,http://aqicn.org/city/zhengzhou/
+1010,34.326112,109.048052,"Guangyuntan, Xian",china,http://aqicn.org/city/china/xian/guangyuntan/
+842,34.799302,114.352706,"Henan University No.1 Hospital, Kaifeng",china,http://aqicn.org/city/china/kaifeng/hedayifuyuan/
+843,34.795803,114.386103,"Maternity And Child Hospital, Kaifeng",china,http://aqicn.org/city/china/kaifeng/fuyoubaojianyuan/
+844,34.775428,114.350292,"Cancer Hospital, Kaifeng",china,http://aqicn.org/city/china/kaifeng/zhongliuyiyuan/
+845,34.826066,114.324772,"Yellow River Conservancy Institute, Kaifeng",china,http://aqicn.org/city/china/kaifeng/huangheshuilixueyuan/
+846,34.793606,114.302744,"Shijixing Kindergarden, Kaifeng",china,http://aqicn.org/city/china/kaifeng/shijixingyoueryuan/
+847,34.796346,114.313426,Kaifeng,kaifeng,http://aqicn.org/city/kaifeng/
+848,35.268362,113.205695,"Movie and Film Studio Base, Jiaozuo",%E7%84%A6%E4%BD%9C,http://aqicn.org/?city=China/%E7%84%A6%E4%BD%9C/%E5%BD%B1%E8%A7%86%E5%9F%8E
+849,35.175835,113.252749,"High-tech District Government, Jiaozuo",%E7%84%A6%E4%BD%9C,http://aqicn.org/?city=China/%E7%84%A6%E4%BD%9C/%E9%AB%98%E6%96%B0%E5%8C%BA%E6%94%BF%E5%BA%9C
+850,35.235066,113.267482,"City Monitoring Station, Jiaozuo",%E7%84%A6%E4%BD%9C,http://aqicn.org/?city=China/%E7%84%A6%E4%BD%9C/%E5%B8%82%E7%9B%91%E6%B5%8B%E7%AB%99
+851,35.212272,113.23304,"City EPA, Jiaozuo",%E7%84%A6%E4%BD%9C,http://aqicn.org/?city=China/%E7%84%A6%E4%BD%9C/%E5%B8%82%E7%8E%AF%E4%BF%9D%E5%B1%80
+852,35.215381,113.248188,Jiaozuo,jiaozuo,http://aqicn.org/city/jiaozuo/
+853,36.081435,114.486451,"Cotton Research Institute, Anyang",china,http://aqicn.org/city/china/anyang/mianyansuo/
+854,36.086733,114.326,"Hongmiao Street, Anyang",china,http://aqicn.org/city/china/anyang/hongmiaojie/
+855,36.056519,114.36495,"Yinxing Compound, Anyang",china,http://aqicn.org/city/china/anyang/yinxingxiaoqu/
+856,36.110041,114.309309,"Tiefo Temple, Anyang",china,http://aqicn.org/city/china/anyang/tiefusi/
+857,36.097767,114.398846,Anyang,anyang,http://aqicn.org/city/anyang/
+858,34.669055,112.439633,"City Monitoring Station, Luoyang",china,http://aqicn.org/city/china/luoyang/shijiancezhan/
+859,34.622084,112.390759,"BDA Management Committee, Luoyang",china,http://aqicn.org/city/china/luoyang/kaifaquguanweihui/
+860,34.623745,112.432973,"New municipal office, Luoyang",china,http://aqicn.org/city/china/luoyang/shiweixinbangongqu/
+861,34.650169,112.400212,"City committee communist party school, Luoyang",china,http://aqicn.org/city/china/luoyang/shiweidangxiao/
+862,34.685566,112.509429,"Henan Forestry College, Luoyang",china,http://aqicn.org/city/china/luoyang/henanlinxiao/
+863,34.668212,112.36907,"CITIC No.2 Elementary School, Luoyang",china,http://aqicn.org/city/china/luoyang/zhongxinerxiao/
+864,34.685949,112.472611,"Yuxi Hotel, Luoyang",china,http://aqicn.org/city/china/luoyang/yuxibinguan/
+865,34.617424,112.46054,Luoyang,luoyang,http://aqicn.org/city/luoyang/
+866,33.7352,113.297916,"City Planning Design Institute, Pingdingshan",china,http://aqicn.org/city/china/pingdingshan/guihuashejiyuan/
+867,33.737754,113.328814,"Xinhua Hotel, Pingdingshan",china,http://aqicn.org/city/china/pingdingshan/xinhualvguan/
+868,33.772474,113.188235,"Engineering College, Pingdingshan",china,http://aqicn.org/city/china/pingdingshan/pingdingshangongxueyuan/
+869,33.719941,113.312665,"High Voltage Switchgear Factory, Pingdingshan",china,http://aqicn.org/city/china/pingdingshan/gaoyakaiguanchang/
+870,33.764754,113.199082,Pingdingshan,pingdingshan,http://aqicn.org/city/pingdingshan/
+871,28.239029,113.087873,"Economic Development Zone EPA, Changsha",china,http://aqicn.org/city/china/changsha/jingkaiquhuanbaoju/
+872,28.216766,112.893403,"High-tech Zone EPA, Changsha",china,http://aqicn.org/city/china/changsha/gaokaiquhuanbaoju/
+873,28.197926,113.083865,"Mapoling, Changsha",china,http://aqicn.org/city/china/changsha/mapoling/
+874,28.186202,112.949459,"Hunan Normal University, Changsha",china,http://aqicn.org/city/china/changsha/hunanshifandaxue/
+875,28.139661,113.008649,"Yuqua District EPB, Changsha",china,http://aqicn.org/city/china/changsha/yuhuaquhuanbaoju/
+876,28.256286,112.98457,"Wujialing, Changsha",china,http://aqicn.org/city/china/changsha/wujialing/
+877,28.191052,113.006646,"New train station, Changsha",china,http://aqicn.org/city/china/changsha/huochexinzhan/
+878,28.114406,112.989577,"Tianxin District EPB, Changsha",china,http://aqicn.org/city/china/changsha/tianxinquhuanbaoju/
+879,28.127269,112.896395,"Hunan University of Traditional Chinese Medicine, Changsha",china,http://aqicn.org/city/china/changsha/hunanzhongyiyaodaxue/
+880,28.355246,113.00164,"Shaping, Changsha",china,http://aqicn.org/city/china/changsha/shaping/
+881,28.224701,112.944264,Changsha,changsha,http://aqicn.org/city/changsha/
+882,24.877113,102.834277,Kunming,kunming,http://aqicn.org/city/kunming/
+883,27.854149,112.901062,"City Monitoring Station, Xiangtan",china,http://aqicn.org/city/china/xiangtan/shijiancezhan/
+884,27.908165,112.912881,"HKUST, Xiangtan",china,http://aqicn.org/city/china/xiangtan/keda/
+885,27.826289,112.949479,Xiangtan,xiangtan,http://aqicn.org/city/xiangtan/
+886,27.883542,113.101131,"Zhuye Hospital, Zhuzhou",china,http://aqicn.org/city/china/zhuzhou/zhuyeyiyuan/
+887,27.794671,113.195938,"No.4 middle school, Zhuzhou",china,http://aqicn.org/city/china/zhuzhou/shisizhong/
+888,27.8349,113.149149,"Railway station, Zhuzhou",china,http://aqicn.org/city/china/zhuzhou/huochezhan/
+889,27.849638,113.135836,"City Monitoring Station, Zhuzhou",china,http://aqicn.org/city/china/zhuzhou/shijiancezhan/
+890,27.830311,113.25706,"Dajing, Zhuzhou",china,http://aqicn.org/city/china/zhuzhou/dajingfengjingqu/
+891,27.824409,113.139832,Zhuzhou,zhuzhou,http://aqicn.org/city/zhuzhou/
+892,29.470098,113.278133,"Yunxi District, Yueyang",%E5%B2%B3%E9%98%B3,http://aqicn.org/?city=China/%E5%B2%B3%E9%98%B3/%E4%BA%91%E6%BA%AA%E5%8C%BA
+893,29.35117,113.007689,"Junshan, Yueyang",%E5%B2%B3%E9%98%B3,http://aqicn.org/?city=China/%E5%B2%B3%E9%98%B3/%E5%90%9B%E5%B1%B1%E5%8C%BA
+894,29.423007,113.156494,"Chenglingji, Yueyang",%E5%B2%B3%E9%98%B3,http://aqicn.org/?city=China/%E5%B2%B3%E9%98%B3/%E5%9F%8E%E9%99%B5%E7%9F%B6
+895,29.375444,113.176729,"BDA, Yueyang",%E5%B2%B3%E9%98%B3,http://aqicn.org/?city=China/%E5%B2%B3%E9%98%B3/%E5%BC%80%E5%8F%91%E5%8C%BA
+896,29.354548,113.134922,Yueyang,yueyang,http://aqicn.org/city/yueyang/
+897,29.014303,111.691833,"Dingcheng District EPB, Changde",china,http://aqicn.org/city/china/changde/dingchengquhuanbaoju/
+898,29.072606,111.735659,"Baihe Hill, Changde",china,http://aqicn.org/city/china/changde/baiheshan/
+899,29.038038,111.6736,"Municipal Technical Supervision Bureau, Changde",china,http://aqicn.org/city/china/changde/shijishujianduju/
+900,28.96732,111.707138,"No.2 middle school, Changde",china,http://aqicn.org/city/china/changde/shierzhong/
+901,29.028648,111.704107,Changde,changde,http://aqicn.org/city/changde/
+902,29.297387,110.421733,"Yuanjiajie, Zhangjiajie",china,http://aqicn.org/city/china/zhangjiajie/yuanjiajie/
+903,29.126345,110.47192,"Power Administration Bureau, Zhangjiajie",china,http://aqicn.org/city/china/zhangjiajie/dianyeju/
+904,29.110186,110.505561,"Yongding District, Zhangjiajie",%E5%BC%A0%E5%AE%B6%E7%95%8C,http://aqicn.org/?city=China/%E5%BC%A0%E5%AE%B6%E7%95%8C/%E6%B0%B8%E5%AE%9A%E6%96%B0%E5%8C%BA
+905,29.346592,110.549588,"Weiyang Road, Zhangjiajie",%E5%BC%A0%E5%AE%B6%E7%95%8C,http://aqicn.org/?city=China/%E5%BC%A0%E5%AE%B6%E7%95%8C/%E6%9C%AA%E5%A4%AE%E8%B7%AF
+906,29.114231,110.484134,Zhangjiajie,zhangjiajie,http://aqicn.org/city/zhangjiajie/
+907,22.784688,108.304953,"Zhenning Garden, Nanning",china,http://aqicn.org/city/china/nanning/zhenninghuayuan/
+908,22.819736,108.32499,"City Monitoring Station, Nanning",china,http://aqicn.org/city/china/nanning/shijiancezhan/
+909,22.802327,108.387089,"Daziran Garden, Nanning",china,http://aqicn.org/city/china/nanning/daziranhuayuan/
+910,22.7879,108.443064,"Xianhu, Nanning",china,http://aqicn.org/city/china/nanning/xianhu/
+911,22.843566,108.24292,"District Agricultural Vocational College, Nanning",china,http://aqicn.org/city/china/nanning/qunongzhiyuan/
+912,22.732221,108.331999,"Yinghua jiayuan, Nanning",china,http://aqicn.org/city/china/nanning/yinghuajiayuan/
+913,22.780442,108.247914,"Shajing town street committee, Nanning",china,http://aqicn.org/city/china/nanning/shajingzhenjiedaoban/
+914,22.814552,108.3702,Nanning,nanning,http://aqicn.org/city/nanning/
+915,21.401746,109.157592,"Haitan Park, Beihai",china,http://aqicn.org/city/china/beihai/haitangongyuan/
+916,21.422809,109.182003,"Beihai Industrial Park, Beihai",china,http://aqicn.org/city/china/beihai/beihaigongyeyuan/
+917,21.463737,109.102346,"New EPA, Beihai",china,http://aqicn.org/city/china/beihai/xinshihuanbaoju/
+918,21.478867,109.12422,Beihai,beihai,http://aqicn.org/city/beihai/
+919,24.343135,109.389038,"Hexi water supply company, Liuzhou",china,http://aqicn.org/city/china/liuzhou/hexishuichang/
+920,24.323702,109.414608,"EPA Station, Liuzhou",china,http://aqicn.org/city/china/liuzhou/huanbaojiancezhan/
+921,24.197352,109.424598,"No.4 middle school, Liuzhou",china,http://aqicn.org/city/china/liuzhou/shisizhong/
+922,24.381729,109.381808,"No.9 middle school, Liuzhou",china,http://aqicn.org/city/china/liuzhou/shijiuzhong/
+923,24.386925,109.492755,"Liudong Primary School, Liuzhou",china,http://aqicn.org/city/china/liuzhou/liudongxiaoxue/
+924,24.313015,109.488374,"Guting Hill, Liuzhou",china,http://aqicn.org/city/china/liuzhou/gutingshan/
+925,24.322813,109.42056,Liuzhou,liuzhou,http://aqicn.org/city/liuzhou/
+926,25.254137,110.246546,"Monitoring station, Guilin",china,http://aqicn.org/city/china/guilin/jiancezhan/
+927,25.248029,110.313509,"Longyin Primary School, Guilin",china,http://aqicn.org/city/china/guilin/longyinxiaoxue/
+928,25.232915,110.262547,"No.8 middle school, Guilin",china,http://aqicn.org/city/china/guilin/bazhong/
+929,25.265319,110.394778,"UESTC Yaoshan Campus, Guilin",china,http://aqicn.org/city/china/guilin/dianzikedayaoshanxiaoqu/
+930,25.270731,110.29478,Guilin,guilin,http://aqicn.org/city/guilin/
+931,19.948447,110.580168,"Zhongzhai Port, Haikou",china,http://aqicn.org/city/china/haikou/dongzhaigang/
+932,20.055317,110.327554,"Hainan University, Haikou",china,http://aqicn.org/city/china/haikou/hainandaxue/
+933,20.003195,110.287275,"Xiuying Hainan Hospital, Haikou",china,http://aqicn.org/city/china/haikou/xiuyinghainanyiyuan/
+934,19.994895,110.342384,"Hainan Normal University, Haikou",china,http://aqicn.org/city/china/haikou/hainanshifandaxue/
+935,20.033548,110.334368,"Longhua road EPA dormitory, Haikou",china,http://aqicn.org/city/china/haikou/longhualuhuanbaojusushe/
+936,20.028742,110.333225,Haikou,haikou,http://aqicn.org/city/haikou/
+937,18.247392,109.511796,"Hedongzi Station, Sanya",%E4%B8%89%E4%BA%9A,http://aqicn.org/?city=China/%E4%B8%89%E4%BA%9A/%E6%B2%B3%E4%B8%9C%E5%AD%90%E7%AB%99
+938,18.266636,109.500445,"Hexizi Station, Sanya",%E4%B8%89%E4%BA%9A,http://aqicn.org/?city=China/%E4%B8%89%E4%BA%9A/%E6%B2%B3%E8%A5%BF%E5%AD%90%E7%AB%99
+939,18.251142,109.515993,Sanya,sanya,http://aqicn.org/city/sanya/
+940,18.776191,109.525682,"Institute of Forestry, Wuzhishan",%E4%BA%94%E6%8C%87%E5%B1%B1,http://aqicn.org/?city=China/%E4%BA%94%E6%8C%87%E5%B1%B1/%E6%9E%97%E7%A7%91%E6%89%80
+941,18.777326,109.520496,"Qiongnan TV station , Wuzhishan",%E4%BA%94%E6%8C%87%E5%B1%B1,http://aqicn.org/?city=China/%E4%BA%94%E6%8C%87%E5%B1%B1/%E7%90%BC%E5%8D%97%E7%94%B5%E8%A7%86%E5%8F%B0%E7%AB%99
+942,19.230091,110.46518,"City Environmental Building Station , Qionghai",%E7%90%BC%E6%B5%B7,http://aqicn.org/?city=China/%E7%90%BC%E6%B5%B7/%E5%B8%82%E7%8E%AF%E4%BF%9D%E5%A4%A7%E6%A5%BC%E7%AB%99
+943,19.506999,109.507868,"City first secondary school sub-station , Danzhou",%E5%84%8B%E5%B7%9E,http://aqicn.org/?city=China/%E5%84%8B%E5%B7%9E/%E5%B8%82%E7%AC%AC%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%AD%90%E7%AB%99
+944,19.525691,109.507869,"Dongpo school sub-station , Danzhou",%E5%84%8B%E5%B7%9E,http://aqicn.org/?city=China/%E5%84%8B%E5%B7%9E/%E4%B8%9C%E5%9D%A1%E5%AD%A6%E6%A0%A1%E5%AD%90%E7%AB%99
+945,19.526455,109.639872,"Heqing Power Station, Danzhou",%E5%84%8B%E5%B7%9E,http://aqicn.org/?city=China/%E5%84%8B%E5%B7%9E/%E5%92%8C%E5%BA%86%E7%94%B5%E7%AB%99
+946,19.118422,108.809561,"Datianzhong School sub-station, Dongfang",%E4%B8%9C%E6%96%B9,http://aqicn.org/?city=China/%E4%B8%9C%E6%96%B9/%E5%A4%A7%E7%94%B0%E4%B8%AD%E5%AD%A6%E5%AD%90%E7%AB%99
+947,19.094735,108.650808,"City Archives sub-station , Dongfang",%E4%B8%9C%E6%96%B9,http://aqicn.org/?city=China/%E4%B8%9C%E6%96%B9/%E5%B8%82%E6%A1%A3%E6%A1%88%E9%A6%86%E5%AD%90%E7%AB%99
+948,19.098691,108.681376,"City Land Resources Bureau station , Dongfang",%E4%B8%9C%E6%96%B9,http://aqicn.org/?city=China/%E4%B8%9C%E6%96%B9/%E5%B8%82%E5%9B%BD%E5%9C%9F%E8%B5%84%E6%BA%90%E5%B1%80%E7%AB%99
+949,19.065433,108.650406,"Industrial Park, northeast corner of the plant boundary station , Dongfang",%E4%B8%9C%E6%96%B9,http://aqicn.org/?city=China/%E4%B8%9C%E6%96%B9/%E5%B7%A5%E4%B8%9A%E5%9B%AD%E4%B8%9C%E5%8C%97%E8%A7%92%E5%8E%82%E7%95%8C%E7%AB%99
+1011,34.340013,108.944832,Xian,xian,http://aqicn.org/city/xian/
+950,19.041703,108.650445,"Industrial Park police station, Dongfang",%E4%B8%9C%E6%96%B9,http://aqicn.org/?city=China/%E4%B8%9C%E6%96%B9/%E5%B7%A5%E4%B8%9A%E5%9B%AD%E6%B4%BE%E5%87%BA%E6%89%80%E7%AB%99
+951,18.740535,109.181792,"Land Environment and Resources Bureau , Ledongxian",%E4%B9%90%E4%B8%9C%E5%8E%BF,http://aqicn.org/?city=China/%E4%B9%90%E4%B8%9C%E5%8E%BF/%E5%9B%BD%E5%9C%9F%E7%8E%AF%E5%A2%83%E8%B5%84%E6%BA%90%E5%B1%80
+952,29.824714,106.383015,"Jinyun Mountain, Chongqing",china,http://aqicn.org/city/china/zhongqing/jinyunshan/
+953,29.571004,106.463961,"Gaojia Garden, Chongqing",china,http://aqicn.org/city/china/zhongqing/gaojiahuayuan/
+954,29.823915,106.428032,"Tiansheng, Chongqing",china,http://aqicn.org/city/china/zhongqing/tiansheng/
+955,29.595635,106.299819,"Huqi, Chongqing",china,http://aqicn.org/city/china/zhongqing/huxi/
+956,29.51576,106.543738,"Nanping, Chongqing",china,http://aqicn.org/city/china/zhongqing/nanping/
+957,29.47961,106.367969,"Baishiyi, Chongqing",china,http://aqicn.org/city/china/zhongqing/baishiyi/
+958,29.561321,106.574692,"Liberation Monument, Chongqing",china,http://aqicn.org/city/china/zhongqing/jiefangbei/
+959,29.513635,106.515811,"Yangjiaping, Chongqing",china,http://aqicn.org/city/china/zhongqing/yangjiaping/
+960,29.709652,106.620717,"Konggang, Chongqing",china,http://aqicn.org/city/china/zhongqing/konggang/
+961,29.486551,106.471936,"Xinshan village, Chongqing",china,http://aqicn.org/city/china/zhongqing/xinshancun/
+962,29.642458,106.565707,"Lijia, Chongqing",china,http://aqicn.org/city/china/zhongqing/lijia/
+963,29.506441,106.51282,"Yuxin Street, Chongqing",china,http://aqicn.org/city/china/zhongqing/yuxinjie/
+964,29.424246,106.594678,"Caijia, Chongqing",china,http://aqicn.org/city/china/zhongqing/caijia/
+965,29.560161,106.555275,Chongqing,chongqing,http://aqicn.org/city/chongqing/
+966,26.565355,106.700834,"City EPA station, Guiyang",china,http://aqicn.org/city/china/guiyang/shihuanbaozhan/
+967,26.622925,106.627857,"Jinyang New District, Guiyang",china,http://aqicn.org/city/china/guiyang/jinyangxinqu/
+968,26.630797,106.752525,"Wudang District, Guiyang",china,http://aqicn.org/city/china/guiyang/wudangqu/
+969,26.43281,106.659016,"Huaxi District, Guiyang",china,http://aqicn.org/city/china/guiyang/huaxiqu/
+970,26.511961,106.698525,"Xiaohe District, Guiyang",china,http://aqicn.org/city/china/guiyang/xiaohequ/
+971,26.597371,106.714267,"Hongbianmen, Guiyang",china,http://aqicn.org/city/china/guiyang/hongbianmen/
+972,26.566183,106.720177,"Yejingting, Guiyang",china,http://aqicn.org/city/china/guiyang/yejinting/
+973,26.54594,106.690406,"Taici Bridge, Guiyang",china,http://aqicn.org/city/china/guiyang/taiciqiao/
+974,26.296842,106.808788,"Tongmuling, Guiyang",china,http://aqicn.org/city/china/guiyang/tongmuling/
+975,26.643992,106.633723,Guiyang,guiyang,http://aqicn.org/city/guiyang/
+976,27.716461,106.921584,"Gantianba, Zunyi",china,http://aqicn.org/city/china/zunyi/gantianba/
+977,27.645076,106.894335,"Zhongzhuang, Zunyi",china,http://aqicn.org/city/china/zunyi/zhongzhuang/
+978,27.684247,106.926869,"Zhoushui  Bridge, Zunyi",china,http://aqicn.org/city/china/zunyi/zhoushuiqiao/
+979,27.683412,106.926033,"Dingzikou, Zunyi",china,http://aqicn.org/city/china/zunyi/dingzikou/
+980,27.722123,106.931212,Zunyi,zunyi,http://aqicn.org/city/zunyi/
+981,24.885454,102.822434,"Chenggong New Area, Kunming",china,http://aqicn.org/city/china/kunming/chenggongxinqu/
+982,24.959273,102.626245,"Xishan Forest Park, Kunming",china,http://aqicn.org/city/china/kunming/xishansenlingongyuan/
+983,25.080649,102.729469,"Longquan Town, Kunming",china,http://aqicn.org/city/china/kunming/longquanzhen/
+984,25.037539,102.723459,"Dongfeng East Road, Kunming",china,http://aqicn.org/city/china/kunming/dongfengdonglu/
+985,25.063979,102.682372,"Jinding Mountain, Kunming",china,http://aqicn.org/city/china/kunming/jindingshan/
+986,25.032798,102.63927,"Biji Square, Kunming",china,http://aqicn.org/city/china/kunming/bijiguangchang/
+987,24.366326,102.578986,"Dongfeng Reservoir, Yuxi",china,http://aqicn.org/city/china/yuxi/dongfengshuiku/
+988,24.357218,102.544593,"City Monitoring Station, Yuxi",china,http://aqicn.org/city/china/yuxi/shijiancezhan/
+989,24.338187,102.497783,"Dayingjie town, Yuxi",china,http://aqicn.org/city/china/yuxi/dayingjiezhen/
+990,24.348971,102.547796,Yuxi,yuxi,http://aqicn.org/city/yuxi/
+991,25.531586,103.805406,"Tobacco Factory office, Qujing",%E6%9B%B2%E9%9D%96,http://aqicn.org/?city=China/%E6%9B%B2%E9%9D%96/%E7%83%9F%E5%8E%82%E5%8A%9E%E5%85%AC%E5%8C%BA
+992,25.113618,103.543517,"Environmental Monitoring Station, Qujing",china,http://aqicn.org/city/china/qujing/huanjingjiancezhan/
+993,25.487008,103.79819,Qujing,qujing,http://aqicn.org/city/qujing/
+994,29.632276,91.131845,"Bakuo street, Lhasa",china,http://aqicn.org/city/china/lasa/bakuojie/
+995,29.631992,91.084862,"District Monitoring Station, Lhasa",china,http://aqicn.org/city/china/lasa/qujiancezhan/
+996,29.641683,91.127951,"Tibet University, Lhasa",china,http://aqicn.org/city/china/lasa/xicangdaxue/
+997,29.662003,91.106568,"District radiation station, Lhasa",china,http://aqicn.org/city/china/lasa/qufushezhan/
+998,29.631185,91.077354,"Lhasa Railway Station, Lhasa",china,http://aqicn.org/city/china/lasa/lasahuochezhan/
+999,29.642818,91.142385,Lhasa,lhasa,http://aqicn.org/city/lhasa/
+1000,34.27329,108.886585,"High Voltage Switchgear Factory, Xian",china,http://aqicn.org/city/china/xian/gaoyakaiguanchang/
+1001,34.261443,108.997844,"Xingqing Compound, Xian",china,http://aqicn.org/city/china/xian/xingqingxiaoqu/
+1002,34.255916,109.065098,"Fangzhicheng, Xian",china,http://aqicn.org/city/china/xian/fangzhicheng/
+1003,34.230798,108.944647,"Xiaozhai, Xian",china,http://aqicn.org/city/china/xian/xiaozhai/
+1004,34.269741,108.958692,"City People Stadium, Xian",china,http://aqicn.org/city/china/xian/shirenmintiyuchang/
+1005,34.228672,108.887581,"Gaoxin West Area, Xian",china,http://aqicn.org/city/china/xian/gaoxinxiqu/
+1006,34.34584,108.939644,"Economic Development Zone, Xian",china,http://aqicn.org/city/china/xian/jingkaiqu/
+1007,34.656366,109.205094,"Yanliang District, Xian",china,http://aqicn.org/city/china/xian/yanliangqu/
+1008,34.371737,109.22365,"Lintong District, Xian",china,http://aqicn.org/city/china/xian/lintongqu/
+1009,34.196295,108.989804,"Qujiang Cultural Industry Group, Xian",china,http://aqicn.org/city/china/xian/qujiangwenhuachanyejituan/
+1012,34.365861,107.195288,"Sanlu Hospital, Baoji",china,http://aqicn.org/city/china/baoji/sanluyiyuan/
+1013,34.300388,107.081452,"Zhuyuangou, Baoji",china,http://aqicn.org/city/china/baoji/zhuyuangou/
+1014,34.35344,107.147859,"Monitoring station, Baoji",china,http://aqicn.org/city/china/baoji/jiancezhan/
+1015,34.372526,100.12016,"Technical Schools, Baoji",china,http://aqicn.org/city/china/baoji/jigongxuexiao/
+1016,34.378968,107.470464,"Chencang EPA compound, Baoji",china,http://aqicn.org/city/china/baoji/chencangquhuanbaojujiashulou/
+1017,34.345583,107.214307,"University of Arts, Baoji",%E5%AE%9D%E9%B8%A1,http://aqicn.org/?city=China/%E5%AE%9D%E9%B8%A1/%E6%96%87%E7%90%86%E5%AD%A6%E9%99%A2
+1018,34.360056,107.249582,"Sandi Primary School, Baoji",%E5%AE%9D%E9%B8%A1,http://aqicn.org/?city=China/%E5%AE%9D%E9%B8%A1/%E4%B8%89%E8%BF%AA%E5%B0%8F%E5%AD%A6
+1019,34.299146,107.19573,"Miaogou Village, Baoji",%E5%AE%9D%E9%B8%A1,http://aqicn.org/?city=China/%E5%AE%9D%E9%B8%A1/%E5%BA%99%E6%B2%9F%E6%9D%91
+1020,34.36056,107.242666,Baoji,baoji,http://aqicn.org/city/baoji/
+1021,35.06608,109.071853,"Wangyi District Government, Tongchuan",%E9%93%9C%E5%B7%9D,http://aqicn.org/?city=China/%E9%93%9C%E5%B7%9D/%E7%8E%8B%E7%9B%8A%E5%8C%BA%E6%94%BF%E5%BA%9C
+1022,34.895671,108.94995,Tongchuan,tongchuan,http://aqicn.org/city/tongchuan/
+1023,34.508625,109.534251,"Agriculture Science Institute, Weinan",china,http://aqicn.org/city/china/weinan/nongkesuo/
+1024,34.494658,109.458646,"Gymnasium, Weinan",china,http://aqicn.org/city/china/weinan/tiyuguan/
+1025,34.498979,109.505453,"Daily newspaper office, Weinan",china,http://aqicn.org/city/china/weinan/ribaoshe/
+1026,34.498668,109.51493,Weinan,weinan,http://aqicn.org/city/weinan/
+1027,35.833138,108.730663,"Normal university, Xianyang",china,http://aqicn.org/city/china/xianyang/shifanxueyuan/
+1028,34.394439,108.7247,"Weather Monitoring Station, Xianyang",china,http://aqicn.org/city/china/xianyang/qixiangzhan/
+1029,34.317319,108.745529,"TCM Medical College, Xianyang",%E5%92%B8%E9%98%B3,http://aqicn.org/?city=China/%E5%92%B8%E9%98%B3/%E4%B8%AD%E5%8C%BB%E5%AD%A6%E9%99%A2
+1030,34.328121,108.713676,Xianyang,xianyang,http://aqicn.org/city/xianyang/
+1031,36.576781,109.487649,"City Monitoring Station, Yanan",china,http://aqicn.org/city/china/yanan/shijiancezhan/
+1032,36.600136,109.484329,"University Hospital, Yanan",china,http://aqicn.org/city/china/yanan/yandayifuyuan/
+1033,36.585552,109.49513,Yanan,yanan,http://aqicn.org/city/yanan/
+1034,36.075353,103.714471,"Worker hospital, Lanzhou",china,http://aqicn.org/city/china/lanzhou/zhigongyiyuan/
+1035,36.102721,103.633277,"Lanlian hotel, Lanzhou",china,http://aqicn.org/city/china/lanzhou/lanlianbinguan/
+1036,36.072163,103.84339,"Biological Product Institute, Lanzhou",china,http://aqicn.org/city/china/lanzhou/shengwuzhipinsuo/
+1037,36.046076,103.833409,"Railway Design Institute, Lanzhou",china,http://aqicn.org/city/china/lanzhou/tielushejiyuan/
+1038,36.060928,103.83678,Lanzhou,lanzhou,http://aqicn.org/city/lanzhou/
+1039,38.52488,102.19143,"Municipal Science and Technology Commission, Jinchang",china,http://aqicn.org/city/china/jinchang/shikewei/
+1040,38.513125,102.18653,"Jinchuan Company No.2 Guest House, Jinchang",china,http://aqicn.org/city/china/jinchang/gongsierzhao/
+1041,38.520527,102.190032,Jinchang,jinchang,http://aqicn.org/city/jinchang/
+1042,39.81311,98.226468,"Jiuquan Refractories Company, Jiayuguan",china,http://aqicn.org/city/china/jiayuguan/jiugangnaicaigongsi/
+1043,39.772669,98.291156,"Bureau of Meteorology, Jiayuguan",china,http://aqicn.org/city/china/jiayuguan/qixiangju/
+1044,39.773962,98.289751,Jiayuguan,jiayuguan,http://aqicn.org/city/jiayuguan/
+1045,38.601939,105.955167,"Helanshan Maliankou, Yinchuan",china,http://aqicn.org/city/china/yinchuan/helanshanmaliankou/
+1046,38.486419,106.076569,"Ninghua living area, Yinchuan",china,http://aqicn.org/city/china/yinchuan/ninghuashenghuoqu/
+1047,38.49796,106.237399,"Helanshan East Road, Yinchuan",china,http://aqicn.org/city/china/yinchuan/helanshandonglu/
+1048,38.504209,106.140567,"College Road, Yinchuan",china,http://aqicn.org/city/china/yinchuan/xueyuanlu/
+1049,38.474858,106.272608,"Yinhu Lane, Yinchuan",china,http://aqicn.org/city/china/yinchuan/yinhuxiang/
+1050,38.487654,106.235308,Yinchuan,yinchuan,http://aqicn.org/city/yinchuan/
+1051,39.001055,106.377233,"Dawukou huanghe East Street, Shizuishan",%E7%9F%B3%E5%98%B4%E5%B1%B1,http://aqicn.org/?city=China/%E7%9F%B3%E5%98%B4%E5%B1%B1/%E5%A4%A7%E6%AD%A6%E5%8F%A3%E9%BB%84%E6%B2%B3%E4%B8%9C%E8%A1%97
+1052,39.22093,107.338641,"Huinong South Street, Shizuishan",%E7%9F%B3%E5%98%B4%E5%B1%B1,http://aqicn.org/?city=China/%E7%9F%B3%E5%98%B4%E5%B1%B1/%E6%83%A0%E5%86%9C%E5%8D%97%E5%A4%A7%E8%A1%97
+1053,39.240108,106.785909,"Hongguozi Town Huixin Street, Shizuishan",%E7%9F%B3%E5%98%B4%E5%B1%B1,http://aqicn.org/?city=China/%E7%9F%B3%E5%98%B4%E5%B1%B1/%E7%BA%A2%E6%9E%9C%E5%AD%90%E9%95%87%E6%83%A0%E6%96%B0%E8%A1%97
+1054,38.985188,106.387758,Shizuishan,shizuishan,http://aqicn.org/city/shizuishan/
+1055,43.831501,87.58295,"Monitoring station, Wulumuqi",china,http://aqicn.org/city/china/wulumuqi/jiancezhan/
+1056,43.76923,87.607438,"Toll office, Wulumuqi",china,http://aqicn.org/city/china/wulumuqi/shoufeisuo/
+1057,43.948277,87.478589,"Xinjiang Academy of Agricultural Farms, Wulumuqi",china,http://aqicn.org/city/china/wulumuqi/xinjiangnongkeyuannongchang/
+1058,43.872315,87.555404,"Railway Bureau, Wulumuqi",china,http://aqicn.org/city/china/wulumuqi/tieluju/
+1059,43.832235,87.646092,"No.31 middle school, Wulumuqi",china,http://aqicn.org/city/china/wulumuqi/sanshiyizhongxue/
+1060,43.874429,87.420418,"No.74 middle school, Wulumuqi",china,http://aqicn.org/city/china/wulumuqi/qishisizhongxue/
+1061,43.963156,87.647302,"Midong district EPA bureau, Wulumuqi",china,http://aqicn.org/city/china/wulumuqi/midongquhuanbaoju/
+1062,43.82685,87.619673,Wulumuqi,wulumuqi,http://aqicn.org/city/wulumuqi/
+1063,41.755886,86.152959,"Kongque Park, Korla",%E5%BA%93%E5%B0%94%E5%8B%92,http://aqicn.org/?city=China/%E5%BA%93%E5%B0%94%E5%8B%92/%E5%AD%94%E9%9B%80%E5%85%AC%E5%9B%AD
+1064,41.733119,86.183327,"Cotton Mill, Korla",%E5%BA%93%E5%B0%94%E5%8B%92,http://aqicn.org/?city=China/%E5%BA%93%E5%B0%94%E5%8B%92/%E6%A3%89%E7%BA%BA%E5%8E%82
+1065,41.712739,86.245571,"BDA, Korla",%E5%BA%93%E5%B0%94%E5%8B%92,http://aqicn.org/?city=China/%E5%BA%93%E5%B0%94%E5%8B%92/%E7%BB%8F%E6%B5%8E%E5%BC%80%E5%8F%91%E5%8C%BA
+1066,45.689445,84.126445,"Baijiantan District, Karamay",china,http://aqicn.org/city/china/kelamayi/baijiantanqu/
+1067,45.604135,84.888518,"Chengzheng New Village, Karamay",china,http://aqicn.org/city/china/kelamayi/changzhengxincun/
+1068,44.343598,84.90652,"Dushanzi District, Karamay",china,http://aqicn.org/city/china/kelamayi/dushanziqu/
+1069,46.090638,85.695354,"Wuerhequ trade buidling, Karamay",china,http://aqicn.org/city/china/kelamayi/wuerhequshangmaolou/
+1070,45.600523,84.891294,"South Forestry Community, Karamay",%E5%85%8B%E6%8B%89%E7%8E%9B%E4%BE%9D,http://aqicn.org/?city=China/%E5%85%8B%E6%8B%89%E7%8E%9B%E4%BE%9D/%E5%8D%97%E6%9E%97%E5%B0%8F%E5%8C%BA
+1071,45.580693,84.891611,Karamay,karamay,http://aqicn.org/city/karamay/
+1072,22.627947,114.428875,Kwai Chung,shenzhen,http://aqicn.org/city/shenzhen/kuiyong/
+1073,36.097676,111.518739,"City Monitoring Station, Linfen",china,http://aqicn.org/city/china/linfen/shijiancezhan/
+1074,29.64868,91.131546,"City EPA, Lhasa",china,http://aqicn.org/city/china/lasa/shihuanbaoju/
+1075,23.039667,113.105492,"Huicai technical school, Foshan",guangdong,http://aqicn.org/city/guangdong/fushan/huacaizhizhong/
+1076,29.896155,121.541154,Wanli University,ningbo,http://aqicn.org/city/ningbo/wanlixueyuan/
+1077,29.893743,121.620269,Municipal management station,ningbo,http://aqicn.org/city/ningbo/shizhengguanlizhan/
+1078,29.862459,121.5328,Qianhu shuihan,ningbo,http://aqicn.org/city/ningbo/shihuanjingjiancezhongxin/
+1079,29.884687,121.562713,Sanjiang secondary schools,ningbo,http://aqicn.org/city/ningbo/sanjiangzhongxue/
+1080,31.228451,121.478227,City average,shanghai,http://aqicn.org/city/shanghai/quanshipingjun/
+1081,29.858177,121.593738,Taigu Primary School,ningbo,http://aqicn.org/city/ningbo/taiguxiaoxue/
+1082,29.949294,121.720671,Longsai Hospital,ningbo,http://aqicn.org/city/ningbo/longsaiyiyuan/
+1083,29.899544,121.827597,Beilun District EPB,ningbo,http://aqicn.org/city/ningbo/quhuanbaodaloubeilun/
+1084,29.788156,121.652415,Qianhu water plant,ningbo,http://aqicn.org/city/ningbo/qianhushuichang/
+1085,36.625683,114.544812,Handan,handan,http://aqicn.org/city/handan/
+1087,22.999349,113.110189,Foshan,foshan,http://aqicn.org/city/foshan/
+1088,31.741307,110.685554,Shennongjia,shennongjia,http://aqicn.org/city/shennongjia/
+1089,39.631273,118.206223,"Xiaoshanzi Station, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/xiaoshanzizhan/
+1090,35.424746,116.699093,"Shengdi Hollidays Resort, Jining",shandong,http://aqicn.org/city/shandong/jining/shengdidujiacun/
+1091,23.077493,114.410275,"Xiabu, Huizhou",guangdong,http://aqicn.org/city/guangdong/huizhou/xiapu/
+1092,22.814485,114.329292,"Huiyang chuanhu, Huizhou",guangdong,http://aqicn.org/city/guangdong/huizhou/huiyangchuanhu/
+1093,22.739283,114.53631,"Daya bay management committee, Huizhou",guangdong,http://aqicn.org/city/guangdong/huizhou/dayawanguanweihui/
+1094,21.660223,110.929968,Maoming,maoming,http://aqicn.org/city/maoming/
+1095,24.285988,116.127065,Meizhou,meizhou,http://aqicn.org/city/meizhou/
+1096,22.772349,115.370227,"City EPA, Shanwei",guangdong,http://aqicn.org/city/guangdong/shanwei/shihuanbaoju/
+1097,22.787161,115.375536,"City government, Shanwei",guangdong,http://aqicn.org/city/guangdong/shanwei/shizhengfu/
+1098,22.789851,115.367124,"Xincheng Middle School, Shanwei",guangdong,http://aqicn.org/city/guangdong/shanwei/xinchengzhongxue/
+1099,22.783576,115.38022,Shanwei,shanwei,http://aqicn.org/city/shanwei/
+1100,21.855227,111.987308,Yangjiang,yangjiang,http://aqicn.org/city/yangjiang/
+1101,23.654204,116.626969,Chaozhou,chaozhou,http://aqicn.org/city/chaozhou/
+1102,23.547596,116.37754,Jieyang,jieyang,http://aqicn.org/city/jieyang/
+1103,22.912436,112.049811,Yunfu,yunfu,http://aqicn.org/city/yunfu/
+1104,41.774139,123.441839,"wenhua street, Shenyang , Shenyang",china,http://aqicn.org/city/china/shenyang/wenhualu/
+1105,41.823665,123.562317,"Tanglin Road , Shenyang , Shenyang",china,http://aqicn.org/city/china/shenyang/donglinglu/
+1106,40.112974,124.373604,"minzhu bridge, Dandong , Dandong",china,http://aqicn.org/city/china/dandong/minzhuqiao/
+1107,40.146298,124.399081,"yuanbaoshan, Dandong , Dandong",china,http://aqicn.org/city/china/dandong/yuanbaoshan/
+1108,40.152757,124.431745,"linjiang houjie, Dandong , Dandong",china,http://aqicn.org/city/china/dandong/linjianghoujie/
+1109,40.653831,122.221943,"jinghu west street, Yingkou , Yingkou",china,http://aqicn.org/city/china/yingkou/jinghuxilu/
+1110,40.709181,122.28243,"Daqing Road , Yingkou , Yingkou",china,http://aqicn.org/city/china/yingkou/daqinglu/
+1111,40.775362,120.871706,"Dongcheng District , Huludao , Huludao",china,http://aqicn.org/city/china/huludao/dongchengqu/
+1112,40.758901,120.842935,"huagong street, Huludao , Huludao",china,http://aqicn.org/city/china/huludao/huagongjie/
+1113,41.014521,123.122538,"Qianshan , Anshan , Anshan",china,http://aqicn.org/city/china/anshan/qianshan/
+1114,41.103264,122.978613,"Tiexi Sandao jie, Anshan",china,http://aqicn.org/city/china/anshan/tiexisandaojie/
+1115,41.094946,123.019037,"Taiyang, Anshan",china,http://aqicn.org/city/china/anshan/taiyangcheng/
+1116,41.264104,123.811523,"Xinlitun , Benxi , Benxi",china,http://aqicn.org/city/china/benxi/xinlitun/
+1117,41.113441,121.140911,"Monitoring station, Jinzhou",china,http://aqicn.org/city/china/jinzhou/jiancezhan/
+1118,40.853915,121.061756,"BDA, Jinzhou",china,http://aqicn.org/city/china/jinzhou/kaifaqu/
+1119,41.124468,121.126119,"tianan street, Jinzhou , Jinzhou",china,http://aqicn.org/city/china/jinzhou/tiananjiedao/
+1120,41.12214,121.21027,"baigu street, Jinzhou, Jinzhou",china,http://aqicn.org/city/china/jinzhou/baigujiedao/
+1121,41.576022,120.456053,Chaoyang,chaoyang,http://aqicn.org/city/chaoyang/
+1122,43.93968,125.247371,"Agricultural Area, Chaoyang",china,http://aqicn.org/city/china/chaoyang/nongyeyuanqu/
+1123,42.225197,123.732174,Tieling,tieling,http://aqicn.org/city/tieling/
+1124,42.311115,123.845614,"Huigong Street West , Tieling , Tieling",china,http://aqicn.org/city/china/tieling/huigongjiexi/
+1125,41.269312,123.24268,Liaoyang,liaoyang,http://aqicn.org/city/liaoyang/
+1126,41.176884,123.419859,"Riverside Road , Liaoyang , Liaoyang",china,http://aqicn.org/city/china/liaoyang/binhelu/
+1127,42.02373,121.675733,Fuxin,fuxin,http://aqicn.org/city/fuxin/
+1128,42.035091,121.666531,"Yulong Metro , Fuxin , Fuxin",china,http://aqicn.org/city/china/fuxin/yulongxincheng/
+1129,42.029119,121.681553,"Dongyuan , Fuxin , Fuxin",china,http://aqicn.org/city/china/fuxin/dongyuan/
+1130,38.159458,114.59879,"Zhengding Unicom, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/zhengdingliantonggongsi/
+1131,37.906534,114.638785,"Luancheng Communications, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/luanchengtongxungongsi/
+1132,38.039518,114.867812,"Gaocheng Experimental School, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/gaochengshiyanxuexiao/
+1133,38.17862,114.997012,"Wuji EPA, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/wujihuanbaoju/
+1134,38.197674,115.219126,"Shenze Power Supply Bureau, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/shenzegongdianju/
+1135,37.77171,114.775957,"Zhaoxian EPA, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/zhaoxianhuanbaoju/
+1136,37.623535,114.612729,"Gaoyi County City Hall, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/gaoyixianzhengfu/
+1137,37.672898,114.398269,"Zanhuang County City Hall, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/zanhuangxianzhengfu/
+1138,38.038788,114.158406,"Jingxing Bureau of Meteorology, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/jingxingxianqixiangju/
+1139,38.266657,114.210275,"Pingshan Ye River, Shijiazhuang",hebei,http://aqicn.org/city/hebei/shijiazhuangshi/pingshanyehe/
+1140,39.741379,118.460246,"Guye District City Hall, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/guyequzhengfu/
+1141,39.675246,118.275149,"Kaiping Stations, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/kaipingjiancezhan/
+1142,39.5834,118.097454,"Fengnan District City Hall, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/fengnanquzhengfu/
+1143,39.840355,118.175338,"Fengrun City Hall, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/fengrunquzhengfu/
+1144,40.153339,118.317265,"Qianxi EPA, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/qianxihuanbaoju/
+1145,39.291232,118.462182,"Caofeidian Xinli  Primary School, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/caofeidianxinlixiaoxue/
+1146,40.206249,117.997315,"Zunhua EPA, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/zunhuahuanbaoju/
+1147,40.004248,118.717055,"Qianan No.1 middle school, Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/qiananyizhong/
+1148,40.419223,118.958002,"Qinglong EPA, Qinhuangdao",hebei,http://aqicn.org/city/hebei/qinhuangdaoshi/qinglonghuanbaoju/
+1149,39.714369,119.173237,"Changli EPA, Qinhuangdao",hebei,http://aqicn.org/city/hebei/qinhuangdaoshi/changlihuanbaoju/
+1150,36.423085,114.245994,"Fengfeng mine Inland Revenue Department, Handan",hebei,http://aqicn.org/city/hebei/handanshi/fengfengkuangqudishuiju/
+1151,36.589084,113.692341,"Shexian EPA, Handan",hebei,http://aqicn.org/city/hebei/handanshi/shexianjiancezhan/
+1152,36.380247,114.390119,"Ci County Vocational Education Center, Handan",hebei,http://aqicn.org/city/hebei/handanshi/cixianzhijiaozhongxin/
+1153,36.783297,114.502905,"Yongnian government guesthouse, Handan",hebei,http://aqicn.org/city/hebei/handanshi/yongnianzhengfubinguan/
+1154,36.686223,114.269009,"Wuan BDA, Handan",hebei,http://aqicn.org/city/hebei/handanshi/wuangaokaiqu/
+1155,37.293569,114.524873,"Cultural centers within the mound, Xingtai",hebei,http://aqicn.org/city/hebei/xingtaishi/naqiuwenhuahuodongzhongxin/
+1156,38.771758,115.502189,"Qingyuan City Hall, Baoding",hebei,http://aqicn.org/city/hebei/baodingshi/qingyuanxianzhengfu/
+1157,39.025781,115.668023,"Xushui EPA, Baoding",hebei,http://aqicn.org/city/hebei/baodingshi/xushuihuanbaoju/
+1158,39.493241,116.040187,"Zhouzhou Monitoring Stations, Baoding",hebei,http://aqicn.org/city/hebei/baodingshi/zhuozhoujiancezhan/
+1159,39.3329,115.885891,"Gaobeidian EPA, Baoding",hebei,http://aqicn.org/city/hebei/baodingshi/gaobeidianhuanbaoju/
+1160,40.509345,115.302442,"Xiahuayuan EPA, Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/xiahuayuanhuanbaoju/
+1161,40.68157,114.398646,"Huaian EPA, Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/huaianhuanbaoju/
+1162,40.422204,115.530285,"Huailai Fuqian Primary School, Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/huailaifuqianxiaoxue/
+1163,40.776643,118.17646,"Chengde County EPA, Chengde",hebei,http://aqicn.org/city/hebei/chengdeshi/chengdexianhuanbaoju/
+1164,40.424301,117.513488,"Xinglong County City Hall, Chengde",hebei,http://aqicn.org/city/hebei/chengdeshi/xinglongxianzhengfu/
+1165,40.950792,117.350715,"Luanping EPA, Chengde",hebei,http://aqicn.org/city/hebei/chengdeshi/luanpinghuanbaoju/
+1166,41.216739,116.658037,"Fengning County City Hall, Chengde",hebei,http://aqicn.org/city/hebei/chengdeshi/fengningxianzhengfu/
+1167,38.589643,116.815876,"Qing County City Hall, Cangzhou",hebei,http://aqicn.org/city/hebei/cangzhoushi/qingxianzhengfu/
+1168,38.089516,116.590575,"Poyoushi City Hall, Cangzhou",hebei,http://aqicn.org/city/hebei/cangzhoushi/botoushizhengfu/
+1169,38.377793,117.343356,"Huanghua Finance Bureau Training Center, Cangzhou",hebei,http://aqicn.org/city/hebei/cangzhoushi/huanghuacaizhengjupeixunzhongxin/
+1170,39.446185,116.311026,"Guan Party School, Langfang",hebei,http://aqicn.org/city/hebei/langfangshi/guandangxiao/
+1171,39.76725,117.015252,"Xianghe EPA, Langfang",hebei,http://aqicn.org/city/hebei/langfangshi/xianghehuanbaoju/
+1172,38.880927,116.47001,"Wenan County EPA, Langfang",hebei,http://aqicn.org/city/hebei/langfangshi/wenanxianhuanbaoju/
+1173,39.989419,117.091528,"Three Rivers Department of Transportation, Langfang",hebei,http://aqicn.org/city/hebei/langfangshi/sanhejiaotongju/
+1174,38.238559,115.537988,"Anping EPA, Hengshui",hebei,http://aqicn.org/city/hebei/hengshuishi/anpingxianhuanbaoju/
+1175,37.548552,115.58679,"Jizhou EPA, Hengshui",hebei,http://aqicn.org/city/hebei/hengshuishi/jizhouhuanbaoju/
+1176,37.949711,115.230084,"Xinji City Hall, Xinji",hebei,http://aqicn.org/city/hebei/xinjishi/xinjishizhengfu/
+1177,29.891281,121.952741,Daxie Literary Museum,ningbo,http://aqicn.org/city/ningbo/daxie/wenyiguan/
+1178,30.159852,121.242331,Cixi EPB,ningbo,http://aqicn.org/city/ningbo/cixi/huanbaodalou/
+1179,30.174341,121.262169,Cixi Experimently Primary School,ningbo,http://aqicn.org/city/ningbo/cixi/shiyanxiaoxue/
+1180,30.045532,121.157602,"Yongsan Park, Yuyao",ningbo,http://aqicn.org/city/ningbo/yuyao/longshangongyuan/
+1181,30.039112,121.133416,"Qilupu Water Company, Yuyao",ningbo,http://aqicn.org/city/ningbo/yuyao/qilipushuichang/
+1182,29.660537,121.414074,Fenghua EPB,ningbo,http://aqicn.org/city/ningbo/fenghua/huanbaodalou/
+1183,29.290223,121.439263,"Yuelong station, Ninghai",ningbo,http://aqicn.org/city/ningbo/ninghai/yuelongzhan/
+1184,29.470841,121.895054,"Wenfeng Primary School, Xiangshan",ningbo,http://aqicn.org/city/ningbo/xiangshan/wenfengxiaoxue/
+1185,29.282647,121.428839,"Chengnan Primary School, Ninghai",ningbo,http://aqicn.org/city/ningbo/ninghai/chengnanxiaoxue/
+1186,29.199718,121.935879,"Xingang Primary School, Xiangshan",ningbo,http://aqicn.org/city/ningbo/xiangshan/xingangxiaoxue/
+1187,30.046157,119.96468,Fuyang,fuyang,http://aqicn.org/city/fuyang/
+1188,29.304353,120.079794,Yiwu,yiwu,http://aqicn.org/city/yiwu/
+1189,29.711185,120.240748,Zhuji,zhuji,http://aqicn.org/city/zhuji/
+1190,30.713288,111.306585,"Silingsan Factory, Yichang",china,http://aqicn.org/city/china/yichang/silingsan/
+1191,30.31494,112.260844,"City Library , Jingzhou",china,http://aqicn.org/city/china/jingzhou/shitushuguan/
+1192,30.35054,112.20743,"City committee communist party school, Jingzhou",china,http://aqicn.org/city/china/jingzhou/shiweidangxiao/
+1193,30.302965,112.29443,"kerong EPA, Jingzhou",china,http://aqicn.org/city/china/jingzhou/keronghuanbao/
+1194,30.232823,115.067923,"Chenjiaying, Huangshi",hubei,http://aqicn.org/city/hubei/huangshi/shenjiaying/
+1195,30.200422,115.082138,"Chenjiawan , Huangshi",hubei,http://aqicn.org/city/hubei/huangshi/chenjiawan/
+1196,30.17332,114.954357,"Xinxialu, Huangshi",hubei,http://aqicn.org/city/hubei/huangshi/xinxialu/
+1197,30.203885,114.906439,"Tie montian, Huangshi",hubei,http://aqicn.org/city/hubei/huangshi/tieshan/
+1198,30.207491,115.031739,"BDA, Huangshi",hubei,http://aqicn.org/city/hubei/huangshi/jingjikaifaqu/
+1199,32.392921,111.047655,"Wudang Mountain , Shiyan",hubei,http://aqicn.org/city/hubei/shiyan/wudangshan/
+1200,32.647286,110.785335,"Riverside Village , Shiyan",hubei,http://aqicn.org/city/hubei/shiyan/binhexincun/
+1201,32.636732,110.731129,"Liujiagou , Shiyan",hubei,http://aqicn.org/city/hubei/shiyan/liujiagou/
+1202,32.833065,110.816809,"Yunyang County District automatic air station , Shiyan",hubei,http://aqicn.org/city/hubei/shiyan/yunxianchengqukongqizidongzhan/
+1203,30.391836,114.892822,"City government, Ezhou",hubei,http://aqicn.org/city/hubei/ezhou/shizhengfu/
+1204,30.368966,114.90365,"Zhaojiaba, Ezhou",hubei,http://aqicn.org/city/hubei/ezhou/zhaojiaba/
+1205,30.410759,114.818225,"Fankou BDA, Ezhou",hubei,http://aqicn.org/city/hubei/ezhou/fankoukaifaqu/
+1206,30.925856,113.92104,"wenhua street, Shenyang , Xiaogan",hubei,http://aqicn.org/city/hubei/xiaogan/wenhualu/
+1207,30.917963,113.943904,"Dongcheng District , Huludao , Xiaogan",hubei,http://aqicn.org/city/hubei/xiaogan/dongchengqu/
+1208,30.446205,114.900323,"Dazhou Island, Huanggang",hubei,http://aqicn.org/city/hubei/huanggang/dazhoudao/
+1209,30.469244,114.912504,"Workers Center , Huanggang",hubei,http://aqicn.org/city/hubei/huanggang/zhigongzhongxin/
+1210,29.818645,114.328461,"Municipal Development and Reform Commission , Xianning",hubei,http://aqicn.org/city/hubei/xianning/shifagaiwei/
+1211,29.51107,114.181864,"Xianan District Governement, Xianning",hubei,http://aqicn.org/city/hubei/xianning/xiananquzhengfu/
+1212,29.883098,114.32909,"Yangtze River Industrial Park , Xianning",hubei,http://aqicn.org/city/hubei/xianning/changjiangchanyeyuan/
+1213,29.815351,114.328689,"Qianshan Park, Xianning",hubei,http://aqicn.org/city/hubei/xianning/qianshangongyuan/
+1214,32.017716,112.16102,"Xiangcheng Yundong Street, Xiangfan",hubei,http://aqicn.org/city/hubei/xiangfan/xiangchengyundonglu/
+1215,47.326793,123.961427,"Farming Vehicule Factory, Qiqihaer",china,http://aqicn.org/city/china/qiqihaer/nongmucheliangchang/
+1216,47.343096,123.96192,"City Center Square, Qiqihaer",china,http://aqicn.org/city/china/qiqihaer/zhongxinguangchang/
+1217,47.303639,123.957551,"City Environmental Monitoring Station, Qiqihaer",china,http://aqicn.org/city/china/qiqihaer/shihuanjingjiancezhan/
+1218,46.582368,125.152904,"Saertu District, Daqing",china,http://aqicn.org/city/china/daqing/saertuqu/
+1219,46.036786,124.842115,"Datong District, Daqing",china,http://aqicn.org/city/china/daqing/datongqu/
+1220,44.567777,129.620658,"EPA building, Mudanjiang",china,http://aqicn.org/city/china/mudanjiang/huanbaodalou/
+1221,44.586388,129.623164,"Cultural Square, Mudanjiang",china,http://aqicn.org/city/china/mudanjiang/wenhuaguangchang/
+1222,19.948477,110.579698,"Zhongzhai Port, Haikou",china,http://aqicn.org/city/china/haikou/dongzhaigang/
+1223,20.057457,110.323305,"Hainan University, Haikou",china,http://aqicn.org/city/china/haikou/hainandaxue/
+1224,20.003195,110.287446,"Xiuying Hainan Hospital, Haikou",china,http://aqicn.org/city/china/haikou/xiuyinghainanyiyuan/
+1225,19.994924,110.341933,"Hainan Normal University, Haikou",china,http://aqicn.org/city/china/haikou/hainanshifandaxue/
+1226,20.033598,110.334619,"Longhua road EPA dormitory, Haikou",china,http://aqicn.org/city/china/haikou/longhualuhuanbaojusushe/
+1227,19.093504,108.655392,Dongfang,dongfang,http://aqicn.org/city/dongfang/
+1228,18.773351,109.52102,Wuzhishan,wuzhishan,http://aqicn.org/city/wuzhishan/
+1229,19.51916,109.584821,Danzhou,danzhou,http://aqicn.org/city/danzhou/
+1230,19.256756,110.478998,Qionghai,qionghai,http://aqicn.org/city/qionghai/
+1231,18.740902,109.182189,Ledongxian,ledongxian,http://aqicn.org/city/ledongxian/
+1232,19.638929,110.787151,"Shitouyuan middle school, Wenchang",china,http://aqicn.org/city/china/wenchang/shitouyuanzhongxue/
+1233,19.61896,110.752145,"City Mine station dormitory building , Wenchang",china,http://aqicn.org/city/china/wenchang/shikuangshanguanlizhansushedalou/
+1234,19.54895,110.806432,"City Land Resources Bureau office environment , Wenchang",china,http://aqicn.org/city/china/wenchang/shiguotuhuanjingzijubangonglou/
+1235,18.828146,110.402316,"Chenbei xinqu sttion, Wanning",china,http://aqicn.org/city/china/wanning/chengbeixinquzizhan/
+1236,18.789205,110.361262,"City Water Company sub-station , Wanning",china,http://aqicn.org/city/china/wanning/shishuiyegongsizizhan/
+1237,18.796743,110.397712,"Middle school, Wanning",china,http://aqicn.org/city/china/wanning/zhongxuezizhan/
+1238,19.691001,110.328237,"Environmental resources monitoring unit, Dinganxian",china,http://aqicn.org/city/china/dinganxian/dinganhuanjingziyuanjianchadadui/
+1239,19.348948,110.103002,"Environmental resources monitoring unit, Tunchangxian",china,http://aqicn.org/city/china/tunchangxian/tunchanghuanjingziyuanjianchadadui/
+1240,19.758086,110.010247,"Land Environment and Resources Bureau, Chengmaixian",china,http://aqicn.org/city/china/chengmaixian/chengmaiguotuhuanjingziyuanjuzhan/
+1241,19.909939,109.6947,"Commission compound Archives , Lingaoxian",china,http://aqicn.org/city/china/lingaoxian/weidayuandanganguan/
+1242,18.506809,110.039993,"Commission for Discipline Building Station, Lingshuixian",china,http://aqicn.org/city/china/lingshuixian/jiweidalouzhan/
+1243,19.038965,109.841279,"Land Environment and Resources Bureau, Qiongzhongxian",china,http://aqicn.org/city/china/qiongzhongxian/guotuhuanjingziyuanjuzhan/
+1244,19.274424,109.064625,"Land Environment and Resources Bureau , Changjiangxian",china,http://aqicn.org/city/china/changjiangxian/guotuhuanjingziyuanju-/
+1245,26.622892,106.627807,"Jinyang District, Guiyang",china,http://aqicn.org/city/china/guiyang/jinyangqu/
+1246,37.943841,115.224111,Xinji,xinji,http://aqicn.org/city/xinji/
+1247,38.516785,114.9963,Dingzhou,dingzhou,http://aqicn.org/city/dingzhou/
+1248,27.977454,119.634837,Jingningxian,jingningxian,http://aqicn.org/city/jingningxian/
+1249,29.592673,105.036234,"City Monitoring Station, Neijiang",china,http://aqicn.org/city/china/najiang/shijiancezhan/
+1250,29.592148,105.074966,"Dongxing District Government , Neijiang",china,http://aqicn.org/city/china/najiang/dongxingquzhengfu/
+1251,29.579135,105.068548,"No 2 middle school, Neijiang",china,http://aqicn.org/city/china/najiang/najiangerzhong/
+1252,29.577653,105.06166,Neijiang,neijiang,http://aqicn.org/city/neijiang/
+1253,30.610641,105.683583,"City Monitoring Station, Suining",china,http://aqicn.org/city/china/suining/shijiancezhan/
+1254,30.63206,105.819747,"Administrative center , Suining",china,http://aqicn.org/city/china/suining/xingzhengzhongxin/
+1255,30.530053,105.596307,Suining,suining,http://aqicn.org/city/suining/
+1256,29.560651,103.759211,"City Monitoring Station, Leshan",china,http://aqicn.org/city/china/leshan/shijiancezhan/
+1257,29.543938,103.772706,"Leshan Giant Buddha Scenic Area , Leshan",china,http://aqicn.org/city/china/leshan/leshandafujingqu/
+1258,29.54935,103.767777,Leshan,leshan,http://aqicn.org/city/leshan/
+1259,30.047726,103.900649,"Heilongtan , Meishan",china,http://aqicn.org/city/china/meishan/heilongtan/
+1260,30.084591,103.843715,"Bureau of Meteorology, Meishan",china,http://aqicn.org/city/china/meishan/qixiangju/
+1261,30.066277,103.8516,"Xuguang Community , Meishan",china,http://aqicn.org/city/china/meishan/xuguangxiaoqu/
+1262,30.059205,103.836229,"City Monitoring Station, Meishan",china,http://aqicn.org/city/china/meishan/shijiancezhan/
+1263,30.072618,103.85064,Meishan,meishan,http://aqicn.org/city/meishan/
+1264,30.147763,104.638024,"Ziyang middle school, Ziyang",china,http://aqicn.org/city/china/ziyang/ziyangzhongxue/
+1265,30.126054,104.63004,Ziyang,ziyang,http://aqicn.org/city/ziyang/
+1266,39.511132,118.686928,"Luannan County , Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/luannanxianxianzhengfu/
+1267,39.908249,117.751417,"Yutian County , Tangshan",hebei,http://aqicn.org/city/hebei/tangshanshi/yutianxianzhengfu/
+1268,39.901091,118.904857,"Lulong County Bureau of Meteorology , Qinhuangdao",hebei,http://aqicn.org/city/hebei/qinhuangdaoshi/lulongxianqixiangju/
+1269,41.166775,114.732369,"Zhangbei EPA , Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/zhangbeixianhuanbaoju/
+1270,41.837866,114.591246,"Kangbao County Environmental Protection Agency , Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/kangbaoxianhuanbaoju/
+1271,41.669984,115.687401,"Guyuan County welfare , Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/guyuanxianfuliyuan/
+1272,41.086638,113.984688,"Shangyi County Environmental Protection Bureau , Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/shangyixianhuanjingbaohuju/
+1273,39.84699,114.601986,"Yuxian Secondary School , Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/weixiandierzhongxue/
+1274,40.106343,114.134732,"Yang County Vocational Education Center , Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/yangyuanxianzhijiaozhongxin/
+1275,40.770459,114.75033,"Wan county Environmental Protection Agency , Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/wanquanxianhuanbaoju/
+1276,40.374273,115.221393,"Zhuolu County Environmental Protection Agency , Zhangjiakou",hebei,http://aqicn.org/city/hebei/zhangjiakoushi/zhuoluxianhuanbaoju/
+1277,41.311956,117.739605,"Longhua EPA , Chengde",hebei,http://aqicn.org/city/hebei/chengdeshi/longhuaxianhuanbaoju/
+1278,39.329071,116.510917,"Yongqing EPA , Langfang",hebei,http://aqicn.org/city/hebei/langfangshi/yongqinghuanbaoju/
+1279,38.712628,116.665751,"Dacheng EPA, Langfang",hebei,http://aqicn.org/city/hebei/langfangshi/dachenghuanbaoju/
+1280,37.520698,115.714936,"Zaoqiang EPA, Hengshui",hebei,http://aqicn.org/city/hebei/hengshuishi/zaoqiangxianhuanbaoju/
+1281,37.801554,115.898697,"Wuyi EPA, Hengshui",hebei,http://aqicn.org/city/hebei/hengshuishi/wuyixianhuanbaoju/
+1282,38.03557,115.959767,"Wuqiang EPA , Hengshui",hebei,http://aqicn.org/city/hebei/hengshuishi/wuqiangxianhuanbaoju/
+1283,38.230652,115.741041,"Raoyang EPA , Hengshui",hebei,http://aqicn.org/city/hebei/hengshuishi/raoyangxianhuanbaoju/
+1284,37.347569,115.966707,"Gucheng County , Hengshui",hebei,http://aqicn.org/city/hebei/hengshuishi/guchengxianxianzhengfu/
+1285,34.268488,108.963074,"City Stadium, Xian",china,http://aqicn.org/city/china/xian/shitiyuchang/
+1286,22.2677,113.581765,Zhuhai,zhuhai,http://aqicn.org/city/zhuhai/
+1287,23.018995,113.126899,Foshan,foshan,http://aqicn.org/city/foshan/
+1288,22.80246,113.298701,Shunde,shunde,http://aqicn.org/city/shunde/
+1289,22.576047,113.087351,Jiangmen,jiangmen,http://aqicn.org/city/jiangmen/
+1290,23.044571,112.470346,Zhaoqing,zhaoqing,http://aqicn.org/city/zhaoqing/
+1291,23.109349,114.421164,Huizhou,huizhou,http://aqicn.org/city/huizhou/
+1292,23.017813,113.756958,Dongguan,dongguan,http://aqicn.org/city/dongguan/
+1293,22.513997,113.398277,Zhongshan,zhongshan,http://aqicn.org/city/zhongshan/
+1294,29.865766,121.548164,Ningbo,ningbo,http://aqicn.org/city/ningbo/
+1295,30.590689,114.310838,Wuhan,wuhan,http://aqicn.org/city/wuhan/
+1296,30.292138,109.484562,Enshi,enshi,http://aqicn.org/city/enshi/
+1297,29.700819,115.967192,"Maoshantou, Jiujiang",china,http://aqicn.org/city/china/jiujiang/maoshantou/
+1298,29.723929,115.998206,"Xiyuan, Jiujiang",china,http://aqicn.org/city/china/jiujiang/xiyuan/
+1299,29.640802,116.022713,"Wuqierling Factory, Jiujiang",china,http://aqicn.org/city/china/jiujiang/wuqierqichang/
+1300,29.679179,116.068081,"Water Scientific Research Institute, Jiujiang",china,http://aqicn.org/city/china/jiujiang/shuikesuo/
+1301,29.592047,115.916335,"Zonghe Industrial Park, Jiujiang",china,http://aqicn.org/city/china/jiujiang/zonghegongyeyuan/
+1302,29.738832,116.09463,"Petrochemical General Plant, Jiujiang",china,http://aqicn.org/city/china/jiujiang/shihuazongchang/
+1303,35.748411,114.313927,"City Monitoring Station, Hebi",cnhenan,http://aqicn.org/city/cnhenan/hebi/shijiancezhan/
+1304,35.281373,113.908605,"BDA, Xinxiang",cnhenan,http://aqicn.org/city/cnhenan/xinxiang/kaifaqu/
+1305,35.851321,115.512901,"Environment protection office, Puyang",cnhenan,http://aqicn.org/city/cnhenan/puyang/huanbaoju/
+1306,33.998574,113.802968,"BDA, Xuchang",cnhenan,http://aqicn.org/city/cnhenan/xuchang/kaifaqu/
+1307,34.011362,113.838373,"Monitoring station, Xuchang",cnhenan,http://aqicn.org/city/cnhenan/xuchang/jiancezhan/
+1308,34.032831,113.827116,"Environment protection office, Xuchang",cnhenan,http://aqicn.org/city/cnhenan/xuchang/huanbaoju/
+1309,32.532094,112.371764,"Environment protection office, Nanyang",cnhenan,http://aqicn.org/city/cnhenan/nanyang/huanbaoju/
+1310,32.988834,112.534165,"Weather Monitoring Station, Nanyang",cnhenan,http://aqicn.org/city/cnhenan/nanyang/qixiangzhan/
+1311,34.412805,115.661879,"Environmental Monitoring Station, Shangqiu",cnhenan,http://aqicn.org/city/cnhenan/shangqiu/huanjingjiancezhan/
+1312,33.609533,114.672682,"City Environmental Monitoring Station, Zhoukou",cnhenan,http://aqicn.org/city/cnhenan/zhoukou/shihuanjingjiancezhan/
+1313,35.066374,112.607855,"Sewage treatment plant, Jiyuan",cnhenan,http://aqicn.org/city/cnhenan/jiyuan/wushuichulichang/
+1314,34.821216,114.826903," Lankao EPB Station, Lankao county",cnhenan,http://aqicn.org/city/cnhenan/lankaoxian/lankaohuanbaojuzidongzhan/
+1315,35.747156,114.303202,Hebi,hebi,http://aqicn.org/city/hebi/
+1316,35.302343,113.93288,Xinxiang,xinxiang,http://aqicn.org/city/xinxiang/
+1317,35.761825,115.035106,Puyang,puyang,http://aqicn.org/city/puyang/
+1318,34.033947,113.858511,Xuchang,xuchang,http://aqicn.org/city/xuchang/
+1319,33.624592,114.702425,Zhoukou,zhoukou,http://aqicn.org/city/zhoukou/
+1320,28.678027,115.903436,"Jiangxi Foreign Affairs Office, Nanchang",china,http://aqicn.org/city/china/nanchang/shengwaiban/
+1321,28.69065,115.898546,"Provincial forestry company, Nanchang",china,http://aqicn.org/city/china/nanchang/shenglinyegongsi/
+1322,28.731518,115.82478,"Institute of Forestry, Nanchang",china,http://aqicn.org/city/china/nanchang/linkesuo/
+1323,28.680659,115.972736,"Jingdong town government, Nanchang",china,http://aqicn.org/city/china/nanchang/jingdongzhenzhengfu/
+1324,28.684018,115.865891,"Contruction Industry College, Nanchang",china,http://aqicn.org/city/china/nanchang/jiangongxuexiao/
+1325,28.637831,115.9033,"Xianghu, Nanchang",china,http://aqicn.org/city/china/nanchang/xianghu/
+1326,28.794538,115.752876,"Martial Arts School, Nanchang",china,http://aqicn.org/city/china/nanchang/wushuxuexiao/
+1327,28.608634,115.912999,"Petrifaction Company, Nanchang",china,http://aqicn.org/city/china/nanchang/shihua/
+1328,28.677155,115.941896,"Provincial Station, Nanchang",china,http://aqicn.org/city/china/nanchang/shengzhan/
+1329,29.5751,115.998926,"Lushan Mountain Observatory, Jiujiang",china,http://aqicn.org/city/china/jiujiang/lushanqixiangtai/
+1330,29.668119,115.992381,"Shili, Jiujiang",china,http://aqicn.org/city/china/jiujiang/shili/
+1331,32.299549,118.322508,Chuzhou,chuzhou,http://aqicn.org/city/chuzhou/
+1332,27.844697,115.000136,"Feiyu, Xinyu",china,http://aqicn.org/city/china/xinyu/feiyu/
+1333,27.932491,115.103767,"Beigang, Xinyu",china,http://aqicn.org/city/china/xinyu/beigang/
+1334,27.839577,114.933915,"No.2 water factory, Xinyu",china,http://aqicn.org/city/china/xinyu/diershuichang/
+1335,27.81048,114.936507,"Bureau of Meteorology, Xinyu",china,http://aqicn.org/city/china/xinyu/shiqixiangju/
+1336,27.814351,114.922194,Xinyu,xinyu,http://aqicn.org/city/xinyu/
+1337,22.755549,108.491317,"Yongning District Government, Nanning",china,http://aqicn.org/city/china/nanning/yongningquzhengfu/
+1338,31.725316,113.3648,"City committee communist party school, Suizhou",hubei,http://aqicn.org/city/hubei/suizhou/shiweidangxiao/
+1339,31.690065,113.383157,"Forestry Bureau, Suizhou",hubei,http://aqicn.org/city/hubei/suizhou/shilinyeju/
+1340,29.864178,121.60022,Taigu Primary School,ningbo,http://aqicn.org/city/ningbo/taiguxiaoxue/
+1341,29.891563,121.568427,Sanjiang secondary schools,ningbo,http://aqicn.org/city/ningbo/sanjiangzhongxue/
+1342,29.957301,121.726734,Longsai Hospital,ningbo,http://aqicn.org/city/ningbo/longsaiyiyuan/
+1343,29.911633,121.850773,Beilun District EPB,ningbo,http://aqicn.org/city/ningbo/quhuanbaodaloubeilun/
+1344,29.821314,121.574364,Wanli University,ningbo,http://aqicn.org/city/ningbo/wanlixueyuan/
+1345,29.774416,121.648136,Qianhu water plant,ningbo,http://aqicn.org/city/ningbo/qianhushuichang/
+1346,29.899182,121.626691,Municipal management station,ningbo,http://aqicn.org/city/ningbo/shizhengguanlizhan/
+1347,29.9027,121.986447,Daxie Literary Museum,ningbo,http://aqicn.org/city/ningbo/daxie/wenyiguan/
+1348,30.165807,121.248991,Cixi EPB,ningbo,http://aqicn.org/city/ningbo/cixi/huanbaodalou/
+1349,30.179808,121.268672,Cixi Experimently Primary School,ningbo,http://aqicn.org/city/ningbo/cixi/shiyanxiaoxue/
+1350,30.050842,121.162477,"Yongsan Park, Yuyao",ningbo,http://aqicn.org/city/ningbo/yuyao/longshangongyuan/
+1351,29.666557,121.42069,Fenghua EPB,ningbo,http://aqicn.org/city/ningbo/fenghua/huanbaodalou/
+1352,29.296505,121.445872,"Yuelong station, Ninghai",ningbo,http://aqicn.org/city/ningbo/ninghai/yuelongzhan/
+1353,29.470908,121.889544,"Wenfeng Primary School, Xiangshan",ningbo,http://aqicn.org/city/ningbo/xiangshan/wenfengxiaoxue/
+1354,29.293812,121.43666,"Chengnan Primary School, Ninghai",ningbo,http://aqicn.org/city/ningbo/ninghai/chengnanxiaoxue/
+1355,29.203878,121.952514,"Xingang Primary School, Xiangshan",ningbo,http://aqicn.org/city/ningbo/xiangshan/xingangxiaoxue/
+1356,29.86835,121.539341,Haishu City Monitoring Center,ningbo,http://aqicn.org/city/ningbo/haishu/shijiancezhongxin/
+1357,29.693164,121.29331,Fenghua Xikou government,ningbo,http://aqicn.org/city/ningbo/fenghua/xikouzhenzhengfu/
+1358,41.727341,86.177205,Korla,korla,http://aqicn.org/city/korla/
+1359,32.0544,112.145224,"Fancheng Xinhua Road , Xiangfan",hubei,http://aqicn.org/city/hubei/xiangfan/fanchengxinhualu/
+1360,36.088472,114.399189,"Environment protection office, Anyang",china,http://aqicn.org/city/china/anyang/huanbaoju/
+1361,29.355261,113.115378,"South Lake Scenic Area, Yueyang",china,http://aqicn.org/city/china/yueyang/nanhufengjingqu/
+1362,29.352305,113.217522,"Jinfeng Reservoir, Yueyang",china,http://aqicn.org/city/china/yueyang/jinfengshuiku/
+1363,29.021379,111.71002,"City Monitoring Station, Changde",china,http://aqicn.org/city/china/changde/shijiancezhan/
+1364,38.534369,102.174531,"Xinchuan Court, Jinchang",china,http://aqicn.org/city/china/jinchang/xinchuanyuan/
+1365,38.817684,106.344,"Shahu Tourism Zone, Shizuishan",china,http://aqicn.org/city/china/shizuishan/shahulvyouqu/
+1366,23.251174,116.406606,"Chaonanzi Station, Shantou",guangdong,http://aqicn.org/city/guangdong/shantou/chaonanzizhan/
+1367,41.864885,124.044353,"Dongzhou district, Fushun , Fushun",china,http://aqicn.org/city/china/fushun/dongzhouqu/
+1368,41.849112,123.815882,"Wanghua district, Fushun , Fushun",china,http://aqicn.org/city/china/fushun/wanghuaqu/
+1369,41.123847,121.206296,"Baigu Water Plant, Jinzhou",china,http://aqicn.org/city/china/jinzhou/baigushuichang/
+1370,37.519091,111.150681,Luliang,luliang,http://aqicn.org/city/luliang/
+1371,30.349004,112.212531,"City committee communist party school, Jingzhou",china,http://aqicn.org/city/china/jingzhou/shiweidangxiao/
+1372,31.046123,112.207214,"Zhuyuan primary school, Jingmen",hubei,http://aqicn.org/city/hubei/jingmen/zhuyuanxiaoxue/
+1373,31.035297,112.198897,"City government, Jingmen",hubei,http://aqicn.org/city/hubei/jingmen/shizhengfu/
+1374,30.296275,109.508711,"State Power Company, Enshi",hubei,http://aqicn.org/city/hubei/enshi/zhoudianlizonggongsi/
+1375,30.517431,105.564623,"City Monitoring Station, Suining",china,http://aqicn.org/city/china/suining/shijiancezhan/
+1376,30.530907,105.593309,"Administrative center , Suining",china,http://aqicn.org/city/china/suining/xingzhengzhongxin/
+1377,31.277414,107.531672,"Dazhou Technical College, Dazhou",china,http://aqicn.org/city/china/dazhou/dazhouzhiyejishuxueyuan/
+1378,31.212692,107.529474,"City Environmental Monitoring Station, Dazhou",china,http://aqicn.org/city/china/dazhou/shihuanjingjiancezhan/
+1379,31.203669,107.465774,"Civic Center, Dazhou",china,http://aqicn.org/city/china/dazhou/shizhengzhongxin/
+1380,18.763365,109.534658,"Qiongnan radio and television transmitting station, Wuzhishan",china,http://aqicn.org/city/china/wuzhishan/qiongnanguangbodianshifashezhan/
+1381,19.263666,110.469931,"haigui middle school, Qionghai",china,http://aqicn.org/city/china/qionghai/haiguixuexiao/
+1382,19.682071,110.348571,"Water Company station, Dinganxian",china,http://aqicn.org/city/china/dinganxian/zilaishuigongsizhan/
+1383,30.45482,106.634086,"Municipal party committee, Guangan",china,http://aqicn.org/city/china/guangan/shiwei/
+1384,30.009827,103.010851,"Daxing 526, Yaan",china,http://aqicn.org/city/china/yaan/daxing526tai/
+1385,29.987204,103.003117,"Jianan plant, Yaan",china,http://aqicn.org/city/china/yaan/jiananchang/
+1386,29.980733,103.012757,"City government, Yaan",china,http://aqicn.org/city/china/yaan/shizhengfu/
+1387,29.9789,103.001912,"Sichuan Agricultural University, Yaan",china,http://aqicn.org/city/china/yaan/chuannongda/
+1388,30.384684,112.945841,"Qianjiang City Station, Qianjiang",hubei,http://aqicn.org/city/hubei/qianjiang/qianjiangshizhan/
