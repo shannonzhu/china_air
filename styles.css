@@ -3,8 +3,16 @@
  * January 2015
  */
 
- /* ------------------------------------------------------ General */
-
+/* Base map coloring */
 .subunit { 
 	fill: #ddc; 
 }
+
+/* Radio button styling */
+label {  
+    display: inline-block;  
+    cursor: pointer;  
+    position: relative;   
+    margin-right: 15px;  
+    font-size: 13px;  
+} 
